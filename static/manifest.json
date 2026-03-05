@@ -1,7 +1,7 @@
 {
-    "name": "Menu Demo",
-    "short_name": "Menu Demo",
-    "description": "Menu Demo Digital Menu ",
+    "name": "{{SITE_TITLE}}",
+    "short_name": "{{SITE_TITLE}}",
+    "description": "{{SITE_TITLE}} Digital Menu",
     "start_url": ".",
     "background_color": "#000000",
     "display": "standalone",

@@ -12,6 +12,7 @@ The following placeholders will be automatically replaced when creating a new cl
 - `{{WHATSAPP}}` - WhatsApp contact number
 - `{{PHONE}}` - Phone contact number
 - `{{EMAIL}}` - Email contact address
+- `{{ONESIGNAL_ID}}` - OneSignal app ID for push notifications (optional; use `""` if not used)
 
 ## Services Configuration
 
@@ -22,9 +23,10 @@ The template includes configuration for the following services:
 - JWT token management
 - User roles and permissions
 
-### Content Service
+### Content Management Service (CMS)
 - Menu content management
 - Update UI functionality
+- Configured via `params.contentManagement` (apiUrl, serviceUrl, clientId)
 
 ### Ads Service
 - Advertisement management
@@ -44,21 +46,23 @@ See the theme documentation for notification service integration details.
 
 ## Structure
 
+Project content and theme content are merged via Hugo module mounts: site `content/` is mounted first, then `themes/_menus_ttms/content` (dashboard, locations, api, etc.), so both project-specific and theme-provided pages are available.
+
 ```
-├── archetypes/         # Content templates
-├── content/            # Markdown content files
-├── data/               # Data files (locations.yaml)
-├── layouts/            # Hugo layouts
+├── content/            # Project Markdown content (menu sections, _index.md)
+├── data/               # Data files (locations.yaml — replace with real locations)
 ├── static/             # Static assets
+│   ├── _headers        # Security headers (HSTS, CORS)
+│   ├── _redirects      # HTTP→HTTPS redirect
+│   ├── manifest.json   # PWA manifest (name/description use {{SITE_TITLE}})
 │   ├── branding/       # Logos, favicons, images
-│   ├── css/            # Custom CSS
-│   ├── js/             # Custom JavaScript
-│   └── main/           # Main images
+│   ├── css/            # Custom CSS (colors.css, custom.css)
+│   └── js/             # Custom JavaScript
 ├── themes/             # Hugo theme (git submodule)
-├── scripts/            # Helper scripts
+├── scripts/            # Helper scripts (e.g. register-client.sh)
 ├── hugo.toml           # Hugo configuration (with placeholders)
 ├── netlify.toml        # Netlify deployment config
-└── build_menu.sh       # Build script
+└── build_menu.sh       # Build script (submodules, optional register-client, hugo build)
 
 ## Theme
 

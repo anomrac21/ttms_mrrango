@@ -27,6 +27,12 @@ git checkout master
 git pull origin master
 cd ../..
 
+# Register client site with auth-service (if not exists)
+if [ -f "scripts/register-client.sh" ]; then
+    echo "Registering client site with auth-service..."
+    bash scripts/register-client.sh
+fi
+
 # Build the Hugo site with optimization
 echo "Running Hugo build with minification..."
 hugo --gc --minify

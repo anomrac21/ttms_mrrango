@@ -4,7 +4,7 @@ prices:
   - size: "-"
     flavour: "-"
     price: 20
-tags: ["Burger", "Toppings"]
+tags: ["Burger", "Toppings", "Addition"]
 ingredients: ["Bacon", "Bell Peppers", "Pineapple", "Jalapeño", "Cheese", "Guacamole", "Black Olives", "Sour Cream", "Loose Corn", "Pico De Gallo", "Sunny Side Egg"]
 cookingmethods: []
 types: []

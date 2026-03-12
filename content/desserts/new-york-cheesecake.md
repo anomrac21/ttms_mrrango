@@ -4,18 +4,18 @@ prices:
   - size: "-"
     flavour: "-"
     price: 50
-  - size: "-"
-    flavour: "Salted Caramel"
-    price: 75
-  - size: "-"
-    flavour: "Berry Compote"
-    price: 75
-  - size: "-"
-    flavour: Chocolate
-    price: 75
-  - size: "-"
-    flavour: Strawberry
-    price: 75
+side_categories:
+  - category_name: "toppings"
+    display_name: "Toppings"
+    items:
+      - name: "Salted Caramel"
+        price: 25
+      - name: "Berry Compote"
+        price: 25
+      - name: "Chocolate"
+        price: 25
+      - name: "Strawberry"
+        price: 25
 tags: ["Dessert"]
 ingredients: ["Cream cheese", "Sugar", "Eggs", "Graham cracker crust"]
 cookingmethods: []

@@ -1,6 +1,6 @@
 ---
 title: Sides
-weight: 2
+weight: 3
 icon: https://ct.ttmenus.com/icons/food/icon-sides.webp
 ---
 
@@ -8,4 +8,4 @@ icon: https://ct.ttmenus.com/icons/food/icon-sides.webp
 
 **Upsize options:** Broccoli $20 | Mushrooms $20 | Onion Rings $30 | Sweet potato Fries $20.
 
-Prices are subject to 10% service charge and 12.5% VAT.
+**Prices are subject to 10% service charge and 12.5% VAT.**

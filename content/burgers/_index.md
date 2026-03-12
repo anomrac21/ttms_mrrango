@@ -1,6 +1,6 @@
 ---
 title: Burgers
-weight: 2
+weight: 6
 icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 ---
 

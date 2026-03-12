@@ -74,8 +74,8 @@ baseURL = 'https://mrrango.ttmenus.com/'
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
     enabled = true
     orderingDisabledMessage = "Ordering is not available for this menu at this time."
-    vat = 0
-    servicecharge = 0
+    vat = 0.125
+    servicecharge = 0.1
     hastables = true
     usephonecall = false
     whatsapp = 0

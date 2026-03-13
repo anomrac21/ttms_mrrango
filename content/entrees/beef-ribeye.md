@@ -2,7 +2,22 @@
 title: Beef Ribeye
 prices:
   - size: "-"
-    flavour: "-"
+    flavour: Blue
+    price: 255
+  - size: "-"
+    flavour: Rare
+    price: 255
+  - size: "-"
+    flavour: Medium-Rare
+    price: 255
+  - size: "-"
+    flavour: Medium
+    price: 255
+  - size: "-"
+    flavour: Medium-Well
+    price: 255
+  - size: "-"
+    flavour: Well-Done
     price: 255
 tags: ["Entrées", "Steak"]
 ingredients: ["10oz beef ribeye", "Cheese sauce", "Sauteed mushrooms", "Fries", "Broccoli"]

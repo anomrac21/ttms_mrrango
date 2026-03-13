@@ -2,7 +2,22 @@
 title: Cowboy Steak
 prices:
   - size: "-"
-    flavour: "-"
+    flavour: Blue
+    price: 695
+  - size: "-"
+    flavour: Rare
+    price: 695
+  - size: "-"
+    flavour: Medium-Rare
+    price: 695
+  - size: "-"
+    flavour: Medium
+    price: 695
+  - size: "-"
+    flavour: Medium-Well
+    price: 695
+  - size: "-"
+    flavour: Well-Done
     price: 695
 tags: ["Entrées", "Steak"]
 ingredients: ["24oz cowboy steak", "Chimichurri", "Broccoli", "Fries or baked potato"]

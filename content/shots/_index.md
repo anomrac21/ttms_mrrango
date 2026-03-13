@@ -1,7 +1,7 @@
 ---
 title: Shots
-weight: 7
+weight: 15
 icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
 ---
 
-Prices are subject to 10% service charge and 12.5% VAT.
+

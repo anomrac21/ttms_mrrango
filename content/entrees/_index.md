@@ -6,4 +6,4 @@ icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 
 **Steak:** Choose your temperature — Blue, Rare, Medium-Rare, Medium, Medium-Well, Well-Done.
 
-Prices are subject to 10% service charge and 12.5% VAT.
+

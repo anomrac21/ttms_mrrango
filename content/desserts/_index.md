@@ -1,7 +1,6 @@
 ---
 title: Desserts
-weight: 5
+weight: 9
 icon: https://ct.ttmenus.com/icons/white/icon-dessert.webp
 ---
 
-Prices are subject to 10% service charge and 12.5% VAT.

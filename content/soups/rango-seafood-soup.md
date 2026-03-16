@@ -1,8 +1,8 @@
 ---
 title: Rango Seafood Soup
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 95
 tags: ["Soups", "Seafood"]
 ingredients: ["Tomato base", "Fish", "Mussels", "Shrimp", "Calamari", "Garlic bread"]

@@ -1,8 +1,13 @@
 ---
 title: Garlic Butter Lobster
+promotions:
+  - days: [Friday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 355
 tags: ["Entrées", "Seafood"]
 ingredients: ["Lobster", "Shrimp", "Garlic butter", "Mashed potatoes", "Garden vegetables"]

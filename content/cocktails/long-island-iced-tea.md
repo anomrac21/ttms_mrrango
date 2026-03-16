@@ -1,8 +1,8 @@
 ---
 title: Long Island Iced Tea
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 82
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Rum", "Vodka", "Gin", "Tequila", "Triple sec", "Coca-Cola"]

@@ -1,8 +1,8 @@
 ---
 title: Appletini
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Sour apple liqueur", "Triple sec", "Vodka"]

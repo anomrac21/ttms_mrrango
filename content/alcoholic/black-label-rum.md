@@ -1,11 +1,11 @@
 ---
 title: Black Label
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 35
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 300
 tags: ["Rum", "Alcoholic"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Molten Chocolate Bundt Cake
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Dessert"]
 ingredients: ["Dark chocolate cake", "Dark chocolate truffle"]

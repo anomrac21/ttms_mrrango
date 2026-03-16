@@ -1,8 +1,8 @@
 ---
 title: Golden Glazed Shrimp
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 130
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Tempura shrimp", "Golden glazed sauce", "Lettuce", "Sweet chili sauce"]

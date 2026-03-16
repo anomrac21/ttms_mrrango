@@ -1,8 +1,8 @@
 ---
 title: Milanesa
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 165
 tags: ["Entrées", "Chicken"]
 ingredients: ["Breaded chicken tenders", "Mexican rice", "Broccoli", "Fried plantains", "Jalapeño cheese sauce"]

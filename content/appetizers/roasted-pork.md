@@ -1,17 +1,17 @@
 ---
 title: Roasted Pork
 prices:
-  - size: "1/4 portion"
-    flavour: Plain
+  - variable1: "1/4 portion"
+    variable2: Plain
     price: 95
-  - size: "1/4 portion"
-    flavour: Mexican
+  - variable1: "1/4 portion"
+    variable2: Mexican
     price: 95
-  - size: "1/2 portion"
-    flavour: Plain
+  - variable1: "1/2 portion"
+    variable2: Plain
     price: 175
-  - size: "1/2 portion"
-    flavour: Mexican
+  - variable1: "1/2 portion"
+    variable2: Mexican
     price: 175
 tags: ["Appetizer", "Pork"]
 ingredients: []

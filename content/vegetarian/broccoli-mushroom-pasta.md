@@ -1,8 +1,8 @@
 ---
 title: Broccoli Mushroom Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 130
 tags: ["Vegetarian", "Pasta"]
 ingredients: ["Fettuccini", "Broccoli", "Creamy alfredo sauce", "Mushroom", "Parmesan cheese"]

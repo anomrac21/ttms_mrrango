@@ -1,8 +1,8 @@
 ---
 title: Buffalo Tender Fries
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Appetizer", "Chicken"]
 ingredients: ["Diced chicken", "Buffalo sauce", "Fries", "Cheese sauce"]

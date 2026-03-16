@@ -1,8 +1,8 @@
 ---
 title: Mai Tai
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Rum", "Grenadine", "Pineapple juice", "Orange juice", "Single barrel", "Grenadine"]

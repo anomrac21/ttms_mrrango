@@ -1,8 +1,8 @@
 ---
 title: Rum Punch
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Rums", "Strawberry and passion fruit purée", "Fruit punch", "Lime juice", "Nutmeg"]

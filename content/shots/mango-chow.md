@@ -1,8 +1,8 @@
 ---
 title: Mango Chow
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Vodka", "Mango purée", "Fresh local seasoning"]

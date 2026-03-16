@@ -1,8 +1,8 @@
 ---
 title: Rango Empanadas
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 95
 tags: ["Vegetarian", "Starter"]
 ingredients: ["Veggie empanadas", "Marinara sauce"]

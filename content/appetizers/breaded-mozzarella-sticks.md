@@ -1,8 +1,12 @@
 ---
 title: Breaded Mozzarella Sticks
+promotions:
+  - days: [Tuesday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 85
 tags: ["Appetizer"]
 ingredients: ["Mozzarella", "Honey mustard sauce"]

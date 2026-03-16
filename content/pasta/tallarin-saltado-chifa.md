@@ -1,8 +1,8 @@
 ---
 title: Tallarin Saltado Chifa
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 195
 tags: ["Pasta"]
 ingredients: ["Chicken", "Beef", "Julienned sweet peppers", "Red onions", "Fettuccine pasta", "Signature ginger sauce"]

@@ -1,11 +1,11 @@
 ---
 title: Macallan Estate
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 95
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 3600
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

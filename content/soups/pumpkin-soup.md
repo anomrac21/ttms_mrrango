@@ -1,8 +1,8 @@
 ---
 title: Pumpkin Soup
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Soups", "Vegetarian"]
 ingredients: ["Butternut squash pumpkin", "Herbs", "Garlic bread"]

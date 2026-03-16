@@ -1,11 +1,11 @@
 ---
 title: Hennessy Paradis
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 1600
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 23000
 tags: ["Cognac", "Alcoholic"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Gran Sabana
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 270
 tags: ["Specialty"]
 ingredients: ["Baby back ribs", "Fried wings", "Buffalo sauce", "Chicken tacos", "Fries", "Mexican rice", "Broccoli"]

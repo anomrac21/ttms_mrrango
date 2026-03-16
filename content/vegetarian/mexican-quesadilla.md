@@ -1,8 +1,8 @@
 ---
 title: Mexican Quesadilla
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 105
 tags: ["Vegetarian"]
 ingredients: ["Flour tortilla", "Diced tomatoes", "Onion", "Sweet peppers", "Mushrooms", "Carrots", "Jalapeños", "Swiss cheese"]

@@ -1,11 +1,11 @@
 ---
 title: Mexican Pepper Lamb
 prices:
-  - size: "5pc"
-    flavour: "-"
+  - variable1: "5pc"
+    variable2: "-"
     price: 225
-  - size: "10pc"
-    flavour: "-"
+  - variable1: "10pc"
+    variable2: "-"
     price: 395
 tags: ["Entrées", "Lamb"]
 ingredients: ["Lamb chops", "Raw pepper and rosemary sauce", "Jalapeños", "Onion", "Pimento", "Sweet pepper", "Mashed potatoes", "Broccoli"]

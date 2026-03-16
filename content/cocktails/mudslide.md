@@ -1,8 +1,8 @@
 ---
 title: Mudslide
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Coffee liqueur", "Rum cream", "Ice cream base"]

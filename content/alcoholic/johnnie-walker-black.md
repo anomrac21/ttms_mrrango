@@ -1,11 +1,11 @@
 ---
 title: Johnnie Walker Black
 prices:
-  - size: "Shot"
-    flavour: "-"
+  - variable1: "Shot"
+    variable2: "-"
     price: 65
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 750
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

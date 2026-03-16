@@ -1,8 +1,8 @@
 ---
 title: Five High Chocolate Cake
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 85
 tags: ["Dessert"]
 ingredients: ["Dark chocolate cake", "Chocolate filling", "Dark chocolate ganache"]

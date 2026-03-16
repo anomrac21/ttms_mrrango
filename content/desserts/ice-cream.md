@@ -1,8 +1,8 @@
 ---
 title: Ice-Cream
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 45
 tags: ["Dessert"]
 ingredients: []

@@ -1,11 +1,15 @@
 ---
 title: Wings and Tenders
+promotions:
+  - days: [Wednesday]
+    type: bogo
+    label: "5 FREE with 10"
 prices:
-  - size: "5 pcs"
-    flavour: "-"
+  - variable1: "5 pcs"
+    variable2: "-"
     price: 65
-  - size: "30 pcs"
-    flavour: "-"
+  - variable1: "30 pcs"
+    variable2: "-"
     price: 380
 tags: ["Appetizer", "Chicken"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Cajun Corn Ribs
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 90
 tags: ["Vegetarian", "Sides"]
 ingredients: ["Corn ribs", "Cajun buffalo sauce", "Golden Glazed sauce", "Parmesan cheese", "Broccoli"]

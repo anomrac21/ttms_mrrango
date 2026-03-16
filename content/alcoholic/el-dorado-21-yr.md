@@ -1,11 +1,11 @@
 ---
 title: El Dorado 21 YR
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 115
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 1495
 tags: ["Rum", "Alcoholic"]
 ingredients: []

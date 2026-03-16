@@ -1,41 +1,41 @@
 ---
 title: Burrito Bowl
 prices:
-  - size: Mexican rice
-    flavour: Chicken
+  - variable1: Mexican rice
+    variable2: Chicken
     price: 80
-  - size: Jasmine rice
-    flavour: Chicken
+  - variable1: Jasmine rice
+    variable2: Chicken
     price: 80
-  - size: Mexican rice
-    flavour: Veggie
+  - variable1: Mexican rice
+    variable2: Veggie
     price: 80
-  - size: Jasmine rice
-    flavour: Veggie
+  - variable1: Jasmine rice
+    variable2: Veggie
     price: 80
-  - size: Mexican rice
-    flavour: Beef
+  - variable1: Mexican rice
+    variable2: Beef
     price: 80
-  - size: Jasmine rice
-    flavour: Beef
+  - variable1: Jasmine rice
+    variable2: Beef
     price: 80
-  - size: Mexican rice
-    flavour: "Veggie Shrimp"
+  - variable1: Mexican rice
+    variable2: "Veggie Shrimp"
     price: 95
-  - size: Jasmine rice
-    flavour: "Veggie Shrimp"
+  - variable1: Jasmine rice
+    variable2: "Veggie Shrimp"
     price: 95
-  - size: Mexican rice
-    flavour: Fish
+  - variable1: Mexican rice
+    variable2: Fish
     price: 80
-  - size: Jasmine rice
-    flavour: Fish
+  - variable1: Jasmine rice
+    variable2: Fish
     price: 80
-  - size: Mexican rice
-    flavour: Shrimp
+  - variable1: Mexican rice
+    variable2: Shrimp
     price: 115
-  - size: Jasmine rice
-    flavour: Shrimp
+  - variable1: Jasmine rice
+    variable2: Shrimp
     price: 115
 side_categories:
   - category_name: "premium_toppings"

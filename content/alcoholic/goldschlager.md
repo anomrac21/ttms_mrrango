@@ -1,8 +1,8 @@
 ---
 title: Goldschläger
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 75
 tags: ["Liqueur", "Alcoholic"]
 ingredients: []

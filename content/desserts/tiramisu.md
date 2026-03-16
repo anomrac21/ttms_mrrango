@@ -1,8 +1,8 @@
 ---
 title: Tiramisu
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Dessert"]
 ingredients: ["Mascarpone", "Coffee", "Cocoa powder"]

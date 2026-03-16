@@ -1,11 +1,11 @@
 ---
 title: Châteauneuf-du-Pape
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 105
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 500
 tags: ["Wine", "Cabernet Sauvignon", "Red", "Alcoholic"]
 ingredients: []

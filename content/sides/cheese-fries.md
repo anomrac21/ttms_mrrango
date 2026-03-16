@@ -1,8 +1,8 @@
 ---
 title: Cheese Fries
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 40
 tags: ["Sides"]
 ingredients: []

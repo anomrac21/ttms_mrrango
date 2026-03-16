@@ -1,8 +1,8 @@
 ---
 title: Espresso Martini
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Espresso", "Coffee liqueur"]

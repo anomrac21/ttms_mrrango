@@ -1,8 +1,13 @@
 ---
 title: Sizzling Tofu
+promotions:
+  - days: [Sunday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 170
 tags: ["Vegetarian"]
 ingredients: ["Tofu", "Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]

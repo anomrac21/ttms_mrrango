@@ -1,14 +1,14 @@
 ---
 title: Cajun Shrimp
 prices:
-  - size: "-"
-    flavour: Hard (corn)
+  - variable1: "-"
+    variable2: Hard (corn)
     price: 78
-  - size: "-"
-    flavour: Soft (flour)
+  - variable1: "-"
+    variable2: Soft (flour)
     price: 78
-  - size: "-"
-    flavour: Mixed
+  - variable1: "-"
+    variable2: Mixed
     price: 78
 side_categories:
   - category_name: "premium_toppings"

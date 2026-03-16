@@ -1,8 +1,8 @@
 ---
 title: Shrimp Pesto Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 195
 tags: ["Pasta", "Seafood"]
 ingredients: ["Grilled shrimp", "Penne pasta", "Pesto sauce", "Parmesan cheese"]

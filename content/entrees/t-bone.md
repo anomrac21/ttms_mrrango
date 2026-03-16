@@ -1,23 +1,23 @@
 ---
 title: T-Bone
 prices:
-  - size: "-"
-    flavour: Blue
+  - variable1: "-"
+    variable2: Blue
     price: 320
-  - size: "-"
-    flavour: Rare
+  - variable1: "-"
+    variable2: Rare
     price: 320
-  - size: "-"
-    flavour: Medium-Rare
+  - variable1: "-"
+    variable2: Medium-Rare
     price: 320
-  - size: "-"
-    flavour: Medium
+  - variable1: "-"
+    variable2: Medium
     price: 320
-  - size: "-"
-    flavour: Medium-Well
+  - variable1: "-"
+    variable2: Medium-Well
     price: 320
-  - size: "-"
-    flavour: Well-Done
+  - variable1: "-"
+    variable2: Well-Done
     price: 320
 tags: ["Entrées", "Steak"]
 ingredients: ["T-bone steak", "Creamy mushroom sauce", "Garden veggies", "Mashed potatoes"]

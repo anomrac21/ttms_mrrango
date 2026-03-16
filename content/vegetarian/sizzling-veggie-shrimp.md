@@ -1,8 +1,13 @@
 ---
 title: Sizzling Veggie Shrimp
+promotions:
+  - days: [Sunday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 195
 tags: ["Vegetarian"]
 ingredients: ["Veggie shrimp", "Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]

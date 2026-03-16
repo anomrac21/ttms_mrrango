@@ -1,23 +1,23 @@
 ---
 title: Mushroom Pasta
 prices:
-  - size: "-"
-    flavour: Mushroom
+  - variable1: "-"
+    variable2: Mushroom
     price: 120
-  - size: "-"
-    flavour: Fish
+  - variable1: "-"
+    variable2: Fish
     price: 135
-  - size: "-"
-    flavour: "Fried Chicken"
+  - variable1: "-"
+    variable2: "Fried Chicken"
     price: 135
-  - size: "-"
-    flavour: Shrimp
+  - variable1: "-"
+    variable2: Shrimp
     price: 170
-  - size: "-"
-    flavour: "Grilled Chicken"
+  - variable1: "-"
+    variable2: "Grilled Chicken"
     price: 136
-  - size: "-"
-    flavour: Lobster
+  - variable1: "-"
+    variable2: Lobster
     price: 295
 tags: ["Pasta"]
 ingredients: ["Fettuccine pasta", "Creamy alfredo sauce", "Mushroom", "Parmesan cheese"]

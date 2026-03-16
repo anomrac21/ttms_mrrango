@@ -1,8 +1,8 @@
 ---
 title: Piña Colada
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Coconut rum", "Pineapple juice", "Piña colada mix", "Ice cream base"]

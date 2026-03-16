@@ -1,8 +1,8 @@
 ---
 title: Ultimate Margarita
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 98
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Classic margarita", "Two coronitas"]

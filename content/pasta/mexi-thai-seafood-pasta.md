@@ -1,8 +1,8 @@
 ---
 title: Mexi Thai Seafood Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 225
 tags: ["Pasta", "Seafood"]
 ingredients: ["Shrimp", "Fish", "Green peppers", "Red onions", "Fettuccine pasta", "Thai ginger sauce", "Sesame seeds"]

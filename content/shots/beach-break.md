@@ -1,8 +1,8 @@
 ---
 title: Beach Break
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Tequila", "Gin", "Vodka", "Triple sec", "Grenadine", "Orange juice"]

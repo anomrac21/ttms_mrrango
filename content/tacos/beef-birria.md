@@ -1,14 +1,14 @@
 ---
 title: Beef Birria
 prices:
-  - size: "-"
-    flavour: Hard (corn)
+  - variable1: "-"
+    variable2: Hard (corn)
     price: 95
-  - size: "-"
-    flavour: Soft (flour)
+  - variable1: "-"
+    variable2: Soft (flour)
     price: 95
-  - size: "-"
-    flavour: Mixed
+  - variable1: "-"
+    variable2: Mixed
     price: 95
 side_categories:
   - category_name: "premium_toppings"

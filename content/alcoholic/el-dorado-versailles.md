@@ -1,11 +1,11 @@
 ---
 title: El Dorado Versailles
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 110
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 1100
 tags: ["Rum", "Alcoholic"]
 ingredients: []

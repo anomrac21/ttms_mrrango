@@ -1,8 +1,8 @@
 ---
 title: Broccoli Cream Soup
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 60
 tags: ["Soups", "Vegetarian"]
 ingredients: ["Broccoli chunks", "Broccoli puree", "Cream", "Garlic bread"]

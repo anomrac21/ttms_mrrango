@@ -1,8 +1,12 @@
 ---
 title: Sangria
+promotions:
+  - days: [Saturday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Red or White wine", "Peach and mango purée", "White rum", "Peach and sour apple liqueur", "Fresh fruit"]

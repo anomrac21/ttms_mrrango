@@ -1,8 +1,12 @@
 ---
 title: Salt and Pepper Tofu
+promotions:
+  - days: [Tuesday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 150
 tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Tempura tofu", "Pimentos", "Onions", "Sweet chili sauce"]

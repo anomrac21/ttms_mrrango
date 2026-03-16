@@ -1,11 +1,11 @@
 ---
 title: Monkey Shoulder
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 110
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 650
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

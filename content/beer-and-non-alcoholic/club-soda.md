@@ -1,8 +1,8 @@
 ---
 title: Club Soda
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 15
 tags: ["Non-Alcoholic"]
 ingredients: []

@@ -1,8 +1,13 @@
 ---
 title: Seafood Huo de Dios
+promotions:
+  - days: [Friday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 245
 tags: ["Specialty", "Seafood"]
 ingredients: ["Seafood", "Fried plantains", "Spicy Napoli sauce", "Ginger", "Lime", "Pimentos", "Jasmine rice"]

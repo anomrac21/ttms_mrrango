@@ -1,11 +1,11 @@
 ---
 title: Nachos
 prices:
-  - size: "-"
-    flavour: Plain
+  - variable1: "-"
+    variable2: Plain
     price: 85
-  - size: "-"
-    flavour: Veggie
+  - variable1: "-"
+    variable2: Veggie
     price: 100
 tags: ["Vegetarian", "Starter"]
 ingredients: ["Tortilla chips", "Melted cheese", "Diced tomatoes", "Red onions", "Jalapeños", "Sour cream"]

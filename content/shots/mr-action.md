@@ -1,8 +1,8 @@
 ---
 title: Mr. Action
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 85
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Johnnie Walker Black", "Jack Daniels", "Tequila", "Goldschläger", "Red Bull"]

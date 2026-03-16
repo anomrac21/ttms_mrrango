@@ -1,8 +1,8 @@
 ---
 title: Helium
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Sambuca", "Blue curaçao", "Cinnamon"]

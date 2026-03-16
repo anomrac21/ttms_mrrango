@@ -1,8 +1,8 @@
 ---
 title: Genovese Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 130
 tags: ["Vegetarian", "Pasta"]
 ingredients: ["Fettuccini", "Tomatoes", "Onions", "Black olives", "Capers", "Sweet peppers", "Marinara"]

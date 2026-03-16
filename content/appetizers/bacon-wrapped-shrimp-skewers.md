@@ -1,8 +1,8 @@
 ---
 title: Bacon Wrapped Shrimp Skewers
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 120
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Shrimp", "Bacon", "Sweet pepper", "BBQ sauce"]

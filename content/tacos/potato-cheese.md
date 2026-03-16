@@ -1,14 +1,14 @@
 ---
 title: Potato Cheese
 prices:
-  - size: "-"
-    flavour: Hard (corn)
+  - variable1: "-"
+    variable2: Hard (corn)
     price: 50
-  - size: "-"
-    flavour: Soft (flour)
+  - variable1: "-"
+    variable2: Soft (flour)
     price: 50
-  - size: "-"
-    flavour: Mixed
+  - variable1: "-"
+    variable2: Mixed
     price: 50
 side_categories:
   - category_name: "premium_toppings"

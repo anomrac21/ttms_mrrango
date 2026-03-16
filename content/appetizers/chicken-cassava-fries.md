@@ -1,8 +1,8 @@
 ---
 title: Chicken Cassava Fries
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 90
 tags: ["Appetizer", "Chicken"]
 ingredients: ["Grilled chicken", "Cassava fries", "Pimentos", "Jalapeño peppers", "Red onions", "Red pepper flakes", "Tamarind sauce"]

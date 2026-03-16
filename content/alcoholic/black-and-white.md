@@ -1,11 +1,11 @@
 ---
 title: Black & White
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 58
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 495
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

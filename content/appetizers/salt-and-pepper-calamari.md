@@ -1,8 +1,8 @@
 ---
 title: Salt and Pepper Calamari
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 155
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Calamari rings", "Peppers", "Onions", "Sweet chili sauce"]

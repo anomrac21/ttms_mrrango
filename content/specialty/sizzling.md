@@ -1,32 +1,37 @@
 ---
 title: Sizzling
+promotions:
+  - days: [Sunday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 135
-  - size: "-"
-    flavour: Steak
+  - variable1: "-"
+    variable2: Steak
     price: 150
-  - size: "-"
-    flavour: Fish
+  - variable1: "-"
+    variable2: Fish
     price: 150
-  - size: "-"
-    flavour: Shrimp
+  - variable1: "-"
+    variable2: Shrimp
     price: 170
-  - size: "-"
-    flavour: Tofu
+  - variable1: "-"
+    variable2: Tofu
     price: 170
-  - size: "-"
-    flavour: "Veggie Shrimp"
+  - variable1: "-"
+    variable2: "Veggie Shrimp"
     price: 195
-  - size: "-"
-    flavour: "Chicken and Shrimp"
+  - variable1: "-"
+    variable2: "Chicken and Shrimp"
     price: 205
-  - size: "-"
-    flavour: Lobster
+  - variable1: "-"
+    variable2: Lobster
     price: 225
-  - size: "-"
-    flavour: "Surf and Turf (Beef and Shrimp)"
+  - variable1: "-"
+    variable2: "Surf and Turf (Beef and Shrimp)"
     price: 235
 tags: ["Specialty"]
 ingredients: ["Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]

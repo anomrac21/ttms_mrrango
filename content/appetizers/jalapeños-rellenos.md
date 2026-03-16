@@ -1,8 +1,12 @@
 ---
 title: Jalapeños Rellenos
+promotions:
+  - days: [Tuesday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Appetizer"]
 ingredients: ["Cheddar cheese", "Jalapeño", "BBQ sauce"]

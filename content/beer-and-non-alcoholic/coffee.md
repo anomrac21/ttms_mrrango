@@ -1,8 +1,8 @@
 ---
 title: Coffee
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 22
 tags: ["Non-Alcoholic"]
 ingredients: []

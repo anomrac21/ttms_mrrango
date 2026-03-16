@@ -1,14 +1,14 @@
 ---
 title: Crispy Smashed Beef
 prices:
-  - size: "-"
-    flavour: Hard (corn)
+  - variable1: "-"
+    variable2: Hard (corn)
     price: 70
-  - size: "-"
-    flavour: Soft (flour)
+  - variable1: "-"
+    variable2: Soft (flour)
     price: 70
-  - size: "-"
-    flavour: Mixed
+  - variable1: "-"
+    variable2: Mixed
     price: 70
 side_categories:
   - category_name: "premium_toppings"

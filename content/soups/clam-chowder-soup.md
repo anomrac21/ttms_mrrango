@@ -1,8 +1,8 @@
 ---
 title: Clam Chowder Soup
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Soups", "Seafood"]
 ingredients: ["Cream-based chowder", "Garlic bread"]

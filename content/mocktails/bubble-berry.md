@@ -1,8 +1,8 @@
 ---
 title: Bubble Berry
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 58
 tags: ["Mocktail", "Non-Alcoholic"]
 ingredients: []

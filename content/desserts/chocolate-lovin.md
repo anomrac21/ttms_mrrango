@@ -1,8 +1,8 @@
 ---
 title: Chocolate Lovin'
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 85
 tags: ["Dessert"]
 ingredients: ["Chocolate mousse", "Chocolate cake"]

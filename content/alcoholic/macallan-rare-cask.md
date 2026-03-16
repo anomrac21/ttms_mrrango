@@ -1,11 +1,11 @@
 ---
 title: Macallan Rare Cask
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 310
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 4400
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

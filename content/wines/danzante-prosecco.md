@@ -1,8 +1,8 @@
 ---
 title: Danzante Prosecco
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 80
 tags: ["Wine", "Prosecco", "Alcoholic"]
 ingredients: []

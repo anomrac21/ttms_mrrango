@@ -1,8 +1,8 @@
 ---
 title: Chicken Mushroom
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 175
 tags: ["Entrées", "Chicken"]
 ingredients: ["Chicken breast", "Mushroom sauce", "Mashed potatoes", "Broccoli"]

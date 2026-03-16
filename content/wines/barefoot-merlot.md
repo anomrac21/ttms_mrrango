@@ -1,11 +1,11 @@
 ---
 title: Barefoot Merlot
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 65
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 300
 tags: ["Wine", "Merlot", "Red", "Alcoholic"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Red Bull
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 25
 tags: ["Non-Alcoholic"]
 ingredients: []

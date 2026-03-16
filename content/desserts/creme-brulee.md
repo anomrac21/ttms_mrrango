@@ -1,8 +1,8 @@
 ---
 title: Crème Brûlée
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Dessert"]
 ingredients: ["Vanilla custard", "Caramelized sugar crust"]

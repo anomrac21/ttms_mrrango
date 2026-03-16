@@ -1,11 +1,11 @@
 ---
 title: Old Parr
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 70
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 795
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

@@ -1,8 +1,13 @@
 ---
 title: Lamb Burger
+promotions:
+  - days: [Thursday]
+    type: percent_off
+    value: 16
+    label: "$20 OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 130
 side_categories:
   - category_name: "premium_toppings"

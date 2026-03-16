@@ -1,8 +1,8 @@
 ---
 title: Hennessy Apple/Melon
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 85
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Hennessy", "Apple or melon liqueur", "Grand Marnier", "Coconut water"]

@@ -1,8 +1,8 @@
 ---
 title: Campari
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 45
 tags: ["Liqueur", "Alcoholic"]
 ingredients: []

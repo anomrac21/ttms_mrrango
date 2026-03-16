@@ -1,8 +1,8 @@
 ---
 title: Burrito Wrap
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 95
 tags: ["Vegetarian"]
 ingredients: ["Corn tortilla", "Lettuce", "Diced tomatoes", "Diced onions", "Rice", "Black beans", "Fries"]

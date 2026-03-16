@@ -1,8 +1,8 @@
 ---
 title: Tequila Rosé
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 60
 tags: ["Tequila", "Alcoholic"]
 ingredients: []

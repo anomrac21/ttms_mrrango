@@ -1,8 +1,8 @@
 ---
 title: Aperol
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 55
 tags: ["Liqueur", "Alcoholic"]
 ingredients: []

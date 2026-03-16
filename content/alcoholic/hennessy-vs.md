@@ -1,11 +1,11 @@
 ---
 title: Hennessy VS
 prices:
-  - size: "Shot"
-    flavour: "-"
+  - variable1: "Shot"
+    variable2: "-"
     price: 75
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 850
 tags: ["Cognac", "Alcoholic"]
 ingredients: []

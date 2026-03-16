@@ -1,14 +1,14 @@
 ---
 title: Spicy Ground Beef
 prices:
-  - size: "-"
-    flavour: Hard (corn)
+  - variable1: "-"
+    variable2: Hard (corn)
     price: 56
-  - size: "-"
-    flavour: Soft (flour)
+  - variable1: "-"
+    variable2: Soft (flour)
     price: 56
-  - size: "-"
-    flavour: Mixed
+  - variable1: "-"
+    variable2: Mixed
     price: 56
 side_categories:
   - category_name: "premium_toppings"

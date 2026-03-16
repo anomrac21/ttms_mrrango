@@ -1,8 +1,8 @@
 ---
 title: Mongolian Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 215
 tags: ["Pasta"]
 ingredients: ["Chicken", "Shrimp", "Fettuccine pasta", "Sweet peppers", "Onions", "Mushrooms", "Corn", "Garlic", "Soy sauce"]

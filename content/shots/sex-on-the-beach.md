@@ -1,8 +1,8 @@
 ---
 title: Sex on the Beach
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Vodka", "Peach liqueur", "Orange juice", "Lime juice", "Cranberry juice"]

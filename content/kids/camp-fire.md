@@ -1,8 +1,8 @@
 ---
 title: Camp Fire
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Kids", "Chicken"]
 ingredients: ["Breaded mozzarella sticks", "Fries", "BBQ chicken breast", "Lettuce"]

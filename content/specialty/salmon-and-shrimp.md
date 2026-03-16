@@ -1,8 +1,8 @@
 ---
 title: Salmon and Shrimp
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 245
 tags: ["Specialty", "Seafood"]
 ingredients: ["Grilled shrimp", "Pink salmon", "Cheese sauce", "Mashed potatoes", "Broccoli"]

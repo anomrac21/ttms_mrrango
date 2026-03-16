@@ -1,8 +1,8 @@
 ---
 title: Cool Breeze
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Tequila", "Blue curaçao", "Lime juice", "Sprite"]

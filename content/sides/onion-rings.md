@@ -1,8 +1,12 @@
 ---
 title: Onion Rings
+promotions:
+  - days: [Tuesday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 50
 tags: ["Sides"]
 ingredients: []

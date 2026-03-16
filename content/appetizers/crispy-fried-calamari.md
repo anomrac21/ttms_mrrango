@@ -1,8 +1,8 @@
 ---
 title: Crispy Fried Calamari
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 145
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Calamari rings", "Marinara sauce"]

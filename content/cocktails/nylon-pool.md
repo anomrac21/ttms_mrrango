@@ -1,8 +1,8 @@
 ---
 title: Nylon Pool
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Coconut rum", "Blue curaçao", "Pineapple juice", "Angostura bitters"]

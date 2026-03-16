@@ -1,8 +1,8 @@
 ---
 title: Veggie Mushroom Taco
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 95
 tags: ["Vegetarian", "Taco"]
 ingredients: ["Mushroom", "Julienned vegetables", "Cabbage", "Tomatoes", "Onions"]

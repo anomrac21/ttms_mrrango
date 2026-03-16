@@ -1,8 +1,8 @@
 ---
 title: Red Headed Slut
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Jägermeister", "Peach liqueur", "Cranberry juice"]

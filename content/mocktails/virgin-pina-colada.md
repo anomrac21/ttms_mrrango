@@ -1,8 +1,8 @@
 ---
 title: Virgin Piña Colada
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 58
 tags: ["Mocktail", "Non-Alcoholic"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Rough Deal
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Puncheon", "Gin", "Grenadine", "Orange juice"]

@@ -1,11 +1,11 @@
 ---
 title: El Dorado 12 YR
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 65
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 650
 tags: ["Rum", "Alcoholic"]
 ingredients: []

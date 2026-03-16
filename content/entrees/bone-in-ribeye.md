@@ -1,23 +1,23 @@
 ---
 title: Bone-In Ribeye
 prices:
-  - size: "-"
-    flavour: Blue
+  - variable1: "-"
+    variable2: Blue
     price: 350
-  - size: "-"
-    flavour: Rare
+  - variable1: "-"
+    variable2: Rare
     price: 350
-  - size: "-"
-    flavour: Medium-Rare
+  - variable1: "-"
+    variable2: Medium-Rare
     price: 350
-  - size: "-"
-    flavour: Medium
+  - variable1: "-"
+    variable2: Medium
     price: 350
-  - size: "-"
-    flavour: Medium-Well
+  - variable1: "-"
+    variable2: Medium-Well
     price: 350
-  - size: "-"
-    flavour: Well-Done
+  - variable1: "-"
+    variable2: Well-Done
     price: 350
 tags: ["Entrées", "Steak"]
 ingredients: ["18oz bone-in ribeye", "Creamy mushroom sauce", "Mashed potatoes", "Broccoli"]

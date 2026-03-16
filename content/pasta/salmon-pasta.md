@@ -1,8 +1,8 @@
 ---
 title: Salmon Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 210
 tags: ["Pasta", "Seafood"]
 ingredients: ["Grilled pink salmon", "Fettuccine pasta", "Creamy alfredo sauce", "Cheese sauce"]

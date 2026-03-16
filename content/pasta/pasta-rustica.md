@@ -1,8 +1,8 @@
 ---
 title: Pasta Rustica
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 200
 tags: ["Pasta"]
 ingredients: ["Grilled chicken", "Bacon", "Shrimp", "Fettuccine pasta", "Alfredo sauce", "Parmesan cheese"]

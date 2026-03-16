@@ -1,8 +1,8 @@
 ---
 title: Sautéed Mushroom
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 55
 tags: ["Sides"]
 ingredients: []

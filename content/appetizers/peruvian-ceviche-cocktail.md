@@ -1,8 +1,8 @@
 ---
 title: Peruvian Ceviche Cocktail
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 150
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Mussels", "Shrimp", "White fish", "Calamari", "Salt", "Lime", "Onion", "Pimientos", "Garlic bread"]

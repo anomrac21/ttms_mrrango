@@ -1,8 +1,8 @@
 ---
 title: Corn on the Cob
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 35
 tags: ["Sides"]
 ingredients: []

@@ -1,8 +1,8 @@
 ---
 title: Salt and Pepper Tofu
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 105
 tags: ["Vegetarian"]
 ingredients: ["Tempura tofu", "Pimentos", "Onions", "Sweet chili sauce"]

@@ -1,8 +1,8 @@
 ---
 title: Slippery Nipple
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 68
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Rum cream", "Sambuca"]

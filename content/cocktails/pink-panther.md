@@ -1,8 +1,8 @@
 ---
 title: Pink Panther
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Butterscotch liqueur", "Strawberry liqueur", "Rum cream", "Ice cream", "Rum", "Whipped cream"]

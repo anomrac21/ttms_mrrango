@@ -1,11 +1,11 @@
 ---
 title: Malibu
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 45
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 595
 tags: ["Rum", "Alcoholic"]
 ingredients: []

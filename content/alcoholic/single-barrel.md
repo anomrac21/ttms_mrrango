@@ -1,11 +1,11 @@
 ---
 title: Single Barrel
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 40
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 370
 tags: ["Rum", "Alcoholic"]
 ingredients: []

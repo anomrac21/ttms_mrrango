@@ -1,8 +1,8 @@
 ---
 title: Ultimate Gin & Tonic
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Whitley Neill distiller's cut", "Tonic water"]

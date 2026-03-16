@@ -1,8 +1,8 @@
 ---
 title: Baileys
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 60
 tags: ["Liqueur", "Alcoholic"]
 ingredients: []

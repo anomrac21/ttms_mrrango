@@ -1,8 +1,8 @@
 ---
 title: Thai Ginger Chicken
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 190
 tags: ["Entrées", "Chicken"]
 ingredients: ["Chicken breast", "Pineapple Thai ginger sauce", "Jasmine rice", "Broccoli", "Sesame seeds"]

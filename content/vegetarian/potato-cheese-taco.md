@@ -1,8 +1,8 @@
 ---
 title: Potato Cheese Taco
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 105
 tags: ["Vegetarian", "Taco"]
 ingredients: ["Flour tortilla", "Jalapeño creamy mashed potatoes"]

@@ -1,26 +1,26 @@
 ---
 title: Virgin Mojito
 prices:
-  - size: "-"
-    flavour: Lime
+  - variable1: "-"
+    variable2: Lime
     price: 58
-  - size: "-"
-    flavour: Strawberry
+  - variable1: "-"
+    variable2: Strawberry
     price: 58
-  - size: "-"
-    flavour: Passion Fruit
+  - variable1: "-"
+    variable2: Passion Fruit
     price: 58
-  - size: "-"
-    flavour: Blueberry
+  - variable1: "-"
+    variable2: Blueberry
     price: 58
-  - size: "-"
-    flavour: Peach
+  - variable1: "-"
+    variable2: Peach
     price: 58
-  - size: "-"
-    flavour: Mango
+  - variable1: "-"
+    variable2: Mango
     price: 58
-  - size: "-"
-    flavour: Raspberry
+  - variable1: "-"
+    variable2: Raspberry
     price: 58
 tags: ["Mocktail", "Non-Alcoholic"]
 ingredients: []

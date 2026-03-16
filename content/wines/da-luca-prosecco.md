@@ -1,11 +1,11 @@
 ---
 title: Da Luca Prosecco
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 95
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 550
 tags: ["Wine", "Prosecco", "Alcoholic"]
 ingredients: []

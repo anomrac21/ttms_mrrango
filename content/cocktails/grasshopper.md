@@ -1,8 +1,8 @@
 ---
 title: Grasshopper
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Ice cream base", "Peppermint liqueur", "White chocolate liqueur"]

@@ -1,8 +1,12 @@
 ---
 title: Jose Cuervo
+promotions:
+  - days: [Thursday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 55
 tags: ["Tequila", "Alcoholic"]
 ingredients: []

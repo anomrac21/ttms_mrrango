@@ -1,17 +1,17 @@
 ---
 title: Kids Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
-  - size: "-"
-    flavour: "Grilled Chicken"
+  - variable1: "-"
+    variable2: "Grilled Chicken"
     price: 94
-  - size: "-"
-    flavour: "Fried Chicken"
+  - variable1: "-"
+    variable2: "Fried Chicken"
     price: 94
-  - size: "-"
-    flavour: Steak
+  - variable1: "-"
+    variable2: Steak
     price: 110
 tags: ["Kids"]
 ingredients: ["Fettuccine pasta", "Creamy alfredo sauce", "Parmesan cheese"]

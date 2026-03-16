@@ -1,26 +1,30 @@
 ---
 title: Mojito
+promotions:
+  - days: [Monday, Tuesday, Wednesday, Thursday, Friday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: Lime
+  - variable1: "-"
+    variable2: Lime
     price: 72
-  - size: "-"
-    flavour: Strawberry
+  - variable1: "-"
+    variable2: Strawberry
     price: 72
-  - size: "-"
-    flavour: "Passion Fruit"
+  - variable1: "-"
+    variable2: "Passion Fruit"
     price: 72
-  - size: "-"
-    flavour: Blueberry
+  - variable1: "-"
+    variable2: Blueberry
     price: 72
-  - size: "-"
-    flavour: Peach
+  - variable1: "-"
+    variable2: Peach
     price: 72
-  - size: "-"
-    flavour: Mango
+  - variable1: "-"
+    variable2: Mango
     price: 72
-  - size: "-"
-    flavour: Raspberry
+  - variable1: "-"
+    variable2: Raspberry
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Fresh mint", "White rum", "Sprite", "Soda", "Lime juice"]

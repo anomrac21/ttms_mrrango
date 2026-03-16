@@ -1,8 +1,8 @@
 ---
 title: Classic Patron Margarita
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Patron tequila", "Orange liqueur", "Lime juice", "Simple syrup"]

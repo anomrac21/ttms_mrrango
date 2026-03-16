@@ -1,8 +1,8 @@
 ---
 title: Tango Scotchman
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 90
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Scotch (Johnnie Walker)", "Amaretto liqueur", "Red Bull"]

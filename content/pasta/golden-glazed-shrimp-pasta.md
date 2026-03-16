@@ -1,8 +1,8 @@
 ---
 title: Golden Glazed Shrimp Pasta
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 195
 tags: ["Pasta", "Seafood"]
 ingredients: ["Fettuccine pasta", "Tempura shrimp", "Golden glazed sauce"]

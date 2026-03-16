@@ -1,8 +1,8 @@
 ---
 title: Margarita Chicken
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 165
 tags: ["Entrées", "Chicken"]
 ingredients: ["Chicken breast", "Cajun jalapeño pineapple sauce", "Diced onions", "Sweet peppers", "Mashed potatoes", "Broccoli"]

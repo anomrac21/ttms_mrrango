@@ -1,8 +1,8 @@
 ---
 title: Cauliflower Steak
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 165
 tags: ["Vegetarian"]
 ingredients: ["Cauliflower", "Mexican blend", "Mashed potatoes", "Roasted tomatoes", "Chimichurri"]

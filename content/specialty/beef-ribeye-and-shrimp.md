@@ -1,8 +1,8 @@
 ---
 title: Beef Ribeye and Shrimp
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 295
 tags: ["Specialty", "Steak", "Seafood"]
 ingredients: ["10oz beef ribeye", "Shrimp", "Signature white sauce", "Mashed potatoes", "Broccoli"]

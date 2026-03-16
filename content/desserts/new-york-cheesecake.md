@@ -1,8 +1,8 @@
 ---
 title: New York Cheesecake
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 50
 side_categories:
   - category_name: "toppings"

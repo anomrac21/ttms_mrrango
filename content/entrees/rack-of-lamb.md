@@ -1,8 +1,8 @@
 ---
 title: Rack of Lamb
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 355
 tags: ["Entrées", "Lamb"]
 ingredients: ["Rack of lamb", "Brown mushroom sauce", "Mashed potatoes", "Broccoli"]

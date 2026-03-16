@@ -1,11 +1,11 @@
 ---
 title: Johnnie Walker Blue
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 295
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 4200
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

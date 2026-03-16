@@ -1,11 +1,11 @@
 ---
 title: Hennessy Pure White
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 85
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 1100
 tags: ["Cognac", "Alcoholic"]
 ingredients: []

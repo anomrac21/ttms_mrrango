@@ -1,8 +1,8 @@
 ---
 title: Veggie Shrimp Taco
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 110
 tags: ["Vegetarian", "Taco"]
 ingredients: ["Vegetarian soya shrimp", "Thai style teriyaki sauce", "Cabbage", "Tomatoes", "Onions"]

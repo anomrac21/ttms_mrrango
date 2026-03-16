@@ -1,8 +1,8 @@
 ---
 title: Rango Bomb
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Shot", "Alcoholic"]
 ingredients: ["Vodka", "Peach liqueur", "Lime juice", "Cranberry juice"]

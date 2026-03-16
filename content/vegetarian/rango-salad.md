@@ -1,8 +1,8 @@
 ---
 title: Rango Salad
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 110
 tags: ["Vegetarian", "Salad"]
 ingredients: ["Lettuce", "Parmesan cheese", "Diced tomatoes", "Red onion", "Crumbled bacon", "Tortilla chips", "Blue cheese", "Cyclone sauce"]

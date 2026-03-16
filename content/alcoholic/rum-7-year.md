@@ -1,11 +1,11 @@
 ---
 title: 7 Year
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 50
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 450
 tags: ["Rum", "Alcoholic"]
 ingredients: []

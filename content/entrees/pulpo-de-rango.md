@@ -1,8 +1,13 @@
 ---
 title: Pulpo de Rango
+promotions:
+  - days: [Friday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 365
 tags: ["Entrées", "Seafood"]
 ingredients: ["Octopus", "Garlic parmesan potato wedges", "Vegetables", "Pesto"]

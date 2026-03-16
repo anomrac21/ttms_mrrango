@@ -1,8 +1,8 @@
 ---
 title: Cheese Wedges
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 50
 tags: ["Sides"]
 ingredients: []

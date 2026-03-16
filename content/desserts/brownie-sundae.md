@@ -1,8 +1,8 @@
 ---
 title: Brownie Sundae
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Dessert"]
 ingredients: ["Chocolate brownie", "Strawberry cheesecake ice cream"]

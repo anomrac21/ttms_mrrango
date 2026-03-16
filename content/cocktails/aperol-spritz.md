@@ -1,8 +1,8 @@
 ---
 title: Aperol Spritz
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Aperol", "Prosecco", "Soda", "Orange"]

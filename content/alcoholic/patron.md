@@ -1,8 +1,12 @@
 ---
 title: Patron
+promotions:
+  - days: [Thursday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "Shot"
-    flavour: "-"
+  - variable1: "Shot"
+    variable2: "-"
     price: 70
 tags: ["Tequila", "Alcoholic"]
 ingredients: []

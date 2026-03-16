@@ -1,8 +1,8 @@
 ---
 title: Thunderstorm
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Peach and passion purée", "Peach liqueur", "White rum", "Cockburn's Port"]

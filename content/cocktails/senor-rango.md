@@ -1,8 +1,8 @@
 ---
 title: Señor Rango
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 82
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Brandy", "Passion fruit purée", "Fruit punch", "Melon liqueur", "Bitters", "Cinnamon"]

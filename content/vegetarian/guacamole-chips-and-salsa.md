@@ -1,8 +1,8 @@
 ---
 title: Guacamole, Chips and Salsa
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 90
 tags: ["Vegetarian", "Starter"]
 ingredients: ["Tortilla chips", "Guacamole", "Salsa"]

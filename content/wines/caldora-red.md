@@ -1,11 +1,11 @@
 ---
 title: Caldora Red
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 70
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 350
 tags: ["Wine", "Malbec", "Red", "Alcoholic"]
 ingredients: []

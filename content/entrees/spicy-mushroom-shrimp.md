@@ -1,8 +1,13 @@
 ---
 title: Spicy Mushroom Shrimp
+promotions:
+  - days: [Friday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 220
 tags: ["Entrées", "Seafood"]
 ingredients: ["Shrimp", "Spicy mushroom sauce", "Jalapeños", "Pimentos", "Mashed potatoes", "Broccoli"]

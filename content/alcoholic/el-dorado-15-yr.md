@@ -1,11 +1,11 @@
 ---
 title: El Dorado 15 YR
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 75
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 820
 tags: ["Rum", "Alcoholic"]
 ingredients: []

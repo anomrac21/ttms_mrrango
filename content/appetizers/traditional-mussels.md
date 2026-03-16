@@ -1,8 +1,8 @@
 ---
 title: Traditional Mussels
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 105
 tags: ["Appetizer", "Seafood"]
 ingredients: ["Mussels", "Lime", "Garlic bread"]

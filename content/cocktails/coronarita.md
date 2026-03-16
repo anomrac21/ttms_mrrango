@@ -1,8 +1,8 @@
 ---
 title: Coronarita
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 90
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Classic margarita", "One coronita"]

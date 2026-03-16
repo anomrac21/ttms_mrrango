@@ -1,11 +1,11 @@
 ---
 title: Gemma Di Luna Pinot Grigio
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 90
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 310
 tags: ["Wine", "Pinot Grigio", "White", "Alcoholic"]
 ingredients: []

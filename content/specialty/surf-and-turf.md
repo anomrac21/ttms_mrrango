@@ -1,8 +1,8 @@
 ---
 title: Surf and Turf
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 475
 tags: ["Specialty", "Steak", "Seafood"]
 ingredients: ["10oz beef ribeye", "Lobster", "Cheese sauce", "Mashed potatoes", "Broccoli"]

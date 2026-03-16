@@ -1,17 +1,17 @@
 ---
 title: Rango Empanadas
 prices:
-  - size: "-"
-    flavour: Veggie
+  - variable1: "-"
+    variable2: Veggie
     price: 85
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 80
-  - size: "-"
-    flavour: Beef
+  - variable1: "-"
+    variable2: Beef
     price: 80
-  - size: "-"
-    flavour: Shrimp
+  - variable1: "-"
+    variable2: Shrimp
     price: 95
 tags: ["Appetizer"]
 ingredients: []

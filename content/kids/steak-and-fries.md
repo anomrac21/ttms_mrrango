@@ -1,8 +1,8 @@
 ---
 title: Steak and Fries
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Kids", "Steak"]
 ingredients: ["6 oz NY Steak", "Crispy fries"]

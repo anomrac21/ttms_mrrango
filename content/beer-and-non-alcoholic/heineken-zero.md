@@ -1,8 +1,8 @@
 ---
 title: Heineken Zero
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 24
 tags: ["Non-Alcoholic"]
 ingredients: []

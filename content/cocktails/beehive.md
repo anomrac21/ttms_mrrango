@@ -1,8 +1,8 @@
 ---
 title: Beehive
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Peach liqueur", "Pineapple juice", "Coconut rum", "Lime juice", "Cranberry juice"]

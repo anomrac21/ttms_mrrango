@@ -1,23 +1,23 @@
 ---
 title: Fish
 prices:
-  - size: Hard (corn)
-    flavour: Grilled
+  - variable1: Hard (corn)
+    variable2: Grilled
     price: 56
-  - size: Hard (corn)
-    flavour: Fried
+  - variable1: Hard (corn)
+    variable2: Fried
     price: 56
-  - size: Soft (flour)
-    flavour: Grilled
+  - variable1: Soft (flour)
+    variable2: Grilled
     price: 56
-  - size: Soft (flour)
-    flavour: Fried
+  - variable1: Soft (flour)
+    variable2: Fried
     price: 56
-  - size: Mixed
-    flavour: Grilled
+  - variable1: Mixed
+    variable2: Grilled
     price: 56
-  - size: Mixed
-    flavour: Fried
+  - variable1: Mixed
+    variable2: Fried
     price: 56
 side_categories:
   - category_name: "premium_toppings"

@@ -1,8 +1,8 @@
 ---
 title: Vegetarian Thai Shrimp Platter
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 195
 tags: ["Vegetarian"]
 ingredients: ["Vegetarian soya shrimp", "Thai ginger sauce", "Jasmine rice", "Marinated broccoli"]

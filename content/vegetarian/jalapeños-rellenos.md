@@ -1,8 +1,8 @@
 ---
 title: Jalapeños Rellenos
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 110
 tags: ["Vegetarian", "Starter"]
 ingredients: ["Cheddar cheese", "Jalapeño", "BBQ sauce"]

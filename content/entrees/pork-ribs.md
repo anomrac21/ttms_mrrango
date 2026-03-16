@@ -1,11 +1,11 @@
 ---
 title: Pork Ribs
 prices:
-  - size: "½ Rack"
-    flavour: "-"
+  - variable1: "½ Rack"
+    variable2: "-"
     price: 180
-  - size: "Full Rack"
-    flavour: "-"
+  - variable1: "Full Rack"
+    variable2: "-"
     price: 335
 tags: ["Entrées", "Pork"]
 ingredients: ["Honey BBQ pork ribs", "Fries or mashed potatoes", "Coleslaw"]

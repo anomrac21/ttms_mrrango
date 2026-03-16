@@ -1,8 +1,8 @@
 ---
 title: Brandy Alexander
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Brandy", "Chocolate liqueur", "Ice cream base"]

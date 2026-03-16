@@ -1,11 +1,11 @@
 ---
 title: Gordon's
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 58
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 540
 tags: ["Gin", "Alcoholic"]
 ingredients: []

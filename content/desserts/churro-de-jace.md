@@ -1,11 +1,11 @@
 ---
 title: Churro de Jace
 prices:
-  - size: "-"
-    flavour: "Vanilla Bean"
+  - variable1: "-"
+    variable2: "Vanilla Bean"
     price: 65
-  - size: "-"
-    flavour: Chocolate
+  - variable1: "-"
+    variable2: Chocolate
     price: 65
 tags: ["Dessert"]
 ingredients: ["Vanilla churros", "Cinnamon sugar", "Vanilla ice cream", "Chocolate or caramel syrup"]

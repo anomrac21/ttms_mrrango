@@ -1,14 +1,14 @@
 ---
 title: Cheese Quesadilla
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 93
-  - size: "-"
-    flavour: Steak
+  - variable1: "-"
+    variable2: Steak
     price: 110
 tags: ["Kids"]
 ingredients: ["12\" tortilla", "Mexican cheese", "Fries"]

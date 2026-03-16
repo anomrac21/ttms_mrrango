@@ -1,8 +1,8 @@
 ---
 title: Blue Kamikaze
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Triple sec", "Blue curaçao", "Lime juice", "Banana liqueur"]

@@ -1,8 +1,8 @@
 ---
 title: Godmother
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Amaretto liqueur"]

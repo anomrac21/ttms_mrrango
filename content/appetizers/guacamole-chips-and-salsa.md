@@ -1,8 +1,8 @@
 ---
 title: Guacamole, Chips and Salsa
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 105
 tags: ["Appetizer"]
 ingredients: ["Tortilla chips", "Guacamole", "Salsa"]

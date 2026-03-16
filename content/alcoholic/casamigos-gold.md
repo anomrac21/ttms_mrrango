@@ -1,8 +1,12 @@
 ---
 title: Casamigos Gold
+promotions:
+  - days: [Thursday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 80
 tags: ["Tequila", "Alcoholic"]
 ingredients: []

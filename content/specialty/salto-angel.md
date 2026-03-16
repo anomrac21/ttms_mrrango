@@ -1,8 +1,8 @@
 ---
 title: Salto Angel
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 285
 tags: ["Specialty"]
 ingredients: ["Baby back ribs", "Shrimp tacos", "Mexican rice", "Fries", "Fried plantains", "Broccoli"]

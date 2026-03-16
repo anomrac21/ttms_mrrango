@@ -1,11 +1,16 @@
 ---
 title: Apilado Doble Burger
+promotions:
+  - days: [Thursday]
+    type: percent_off
+    value: 16
+    label: "$20 OFF"
 prices:
-  - size: "-"
-    flavour: Beef
+  - variable1: "-"
+    variable2: Beef
     price: 165
-  - size: "-"
-    flavour: "Double Stacked Lamb"
+  - variable1: "-"
+    variable2: "Double Stacked Lamb"
     price: 195
 side_categories:
   - category_name: "premium_toppings"

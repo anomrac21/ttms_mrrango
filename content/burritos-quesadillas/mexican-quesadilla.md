@@ -1,20 +1,20 @@
 ---
 title: Mexican Quesadilla
 prices:
-  - size: "-"
-    flavour: Veggie
+  - variable1: "-"
+    variable2: Veggie
     price: 85
-  - size: "-"
-    flavour: Lamb
+  - variable1: "-"
+    variable2: Lamb
     price: 130
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 100
-  - size: "-"
-    flavour: Shrimp
+  - variable1: "-"
+    variable2: Shrimp
     price: 130
-  - size: "-"
-    flavour: Beef
+  - variable1: "-"
+    variable2: Beef
     price: 100
 side_categories:
   - category_name: "premium_toppings"

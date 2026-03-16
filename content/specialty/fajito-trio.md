@@ -1,8 +1,8 @@
 ---
 title: Fajito Trio
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 245
 tags: ["Specialty"]
 ingredients: ["Beef", "Shrimp", "Chicken", "Garlic", "Julienned veggies", "Flour fajitas", "Sour cream", "Guacamole"]

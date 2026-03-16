@@ -1,8 +1,8 @@
 ---
 title: Rude Rango Extreme
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 98
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Classic daiquiri", "Rude Boy Extreme"]

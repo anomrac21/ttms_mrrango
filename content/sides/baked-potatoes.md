@@ -1,8 +1,8 @@
 ---
 title: Baked Potatoes
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 32
 tags: ["Sides"]
 ingredients: []

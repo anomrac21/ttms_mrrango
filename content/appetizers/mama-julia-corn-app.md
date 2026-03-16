@@ -1,8 +1,12 @@
 ---
 title: Mama Julia Corn
+promotions:
+  - days: [Tuesday]
+    type: bogo
+    label: "2-for-1"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Appetizer"]
 ingredients: ["Corn on the cob", "Mama Julia sauce", "Cajun seasoned parmesan sauce"]

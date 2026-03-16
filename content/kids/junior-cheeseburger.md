@@ -1,8 +1,8 @@
 ---
 title: Junior Cheeseburger
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Kids", "Burger"]
 ingredients: ["Beef patty", "Toasted bun", "Cyclone sauce", "Lettuce", "Tomatoes", "Onions", "Cheese", "Fries"]

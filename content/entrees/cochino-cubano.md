@@ -1,8 +1,8 @@
 ---
 title: Cochino Cubano
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 165
 tags: ["Entrées", "Pork"]
 ingredients: ["Mexican style pork", "Jasmine rice", "Fried plantains", "Black beans"]

@@ -1,8 +1,8 @@
 ---
 title: Mama Julia Corn
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
 tags: ["Vegetarian", "Sides"]
 ingredients: ["Corn on the cob", "Mama Julia sauce", "Cajun seasoned parmesan sauce"]

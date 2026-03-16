@@ -1,8 +1,8 @@
 ---
 title: Shandy Sorrel
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 16
 tags: ["Non-Alcoholic"]
 ingredients: []

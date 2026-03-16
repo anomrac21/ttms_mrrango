@@ -1,11 +1,11 @@
 ---
 title: Beringer Chardonnay
 prices:
-  - size: "Glass"
-    flavour: "-"
+  - variable1: "Glass"
+    variable2: "-"
     price: 65
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 250
 tags: ["Wine", "Chardonnay", "White", "Alcoholic"]
 ingredients: []

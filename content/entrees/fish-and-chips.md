@@ -1,8 +1,13 @@
 ---
 title: Fish and Chips
+promotions:
+  - days: [Friday]
+    type: percent_off
+    value: 10
+    label: "10% OFF"
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 150
 tags: ["Entrées", "Seafood"]
 ingredients: ["White fish", "Seasoned fries", "Ranch dipping sauce"]

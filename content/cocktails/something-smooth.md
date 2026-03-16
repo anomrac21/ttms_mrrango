@@ -1,8 +1,8 @@
 ---
 title: Something Smooth
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 75
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Rum cream", "Amaretto liqueur", "Ice cream base", "Chocolate syrup"]

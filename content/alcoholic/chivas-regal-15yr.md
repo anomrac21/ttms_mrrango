@@ -1,11 +1,11 @@
 ---
 title: Chivas Regal 15 YR
 prices:
-  - size: Shot
-    flavour: "-"
+  - variable1: Shot
+    variable2: "-"
     price: 90
-  - size: Bottle
-    flavour: "-"
+  - variable1: Bottle
+    variable2: "-"
     price: 950
 tags: ["Scotch", "Alcoholic"]
 ingredients: []

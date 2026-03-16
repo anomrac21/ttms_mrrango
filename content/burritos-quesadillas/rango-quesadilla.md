@@ -1,17 +1,17 @@
 ---
 title: Rango Quesadilla
 prices:
-  - size: "-"
-    flavour: Grilled Chicken
+  - variable1: "-"
+    variable2: Grilled Chicken
     price: 90
-  - size: "-"
-    flavour: Shrimp
+  - variable1: "-"
+    variable2: Shrimp
     price: 105
-  - size: "-"
-    flavour: Lamb
+  - variable1: "-"
+    variable2: Lamb
     price: 95
-  - size: "-"
-    flavour: "Shrimp and Bacon"
+  - variable1: "-"
+    variable2: "Shrimp and Bacon"
     price: 135
 side_categories:
   - category_name: "premium_toppings"

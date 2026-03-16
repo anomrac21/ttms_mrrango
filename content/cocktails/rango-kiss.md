@@ -1,8 +1,8 @@
 ---
 title: Rango Kiss
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 72
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["White rum", "Coconut rum", "Pineapple juice", "Grenadine"]

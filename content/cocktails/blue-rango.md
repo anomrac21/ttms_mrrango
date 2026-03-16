@@ -1,8 +1,8 @@
 ---
 title: Blue Rango
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Vodka", "Butterscotch liqueur", "Blue curaçao", "Rum cream", "Ice cream base"]

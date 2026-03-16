@@ -1,8 +1,8 @@
 ---
 title: Rango Chicken and Shrimp
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 200
 tags: ["Specialty", "Chicken", "Seafood"]
 ingredients: ["Grilled chicken", "Shrimp", "Mushroom sauce", "Broccoli", "Mashed or baked potato"]

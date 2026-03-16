@@ -1,11 +1,11 @@
 ---
 title: Grey Goose
 prices:
-  - size: "Shot"
-    flavour: "-"
+  - variable1: "Shot"
+    variable2: "-"
     price: 70
-  - size: "Bottle"
-    flavour: "-"
+  - variable1: "Bottle"
+    variable2: "-"
     price: 780
 tags: ["Vodka", "Alcoholic"]
 ingredients: []

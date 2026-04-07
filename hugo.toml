@@ -87,7 +87,7 @@ baseURL = 'https://mrrango.ttmenus.com/'
     phone = 0
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 25
     notifications = true
 
 [params.social]

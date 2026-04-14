@@ -7,7 +7,7 @@ promotions:
 prices:
   - variable1: "-"
     variable2: "-"
-    price: 85
+    price: 65
 tags: ["Appetizer"]
 ingredients: ["Mozzarella", "Honey mustard sauce"]
 cookingmethods: ["Fried"]

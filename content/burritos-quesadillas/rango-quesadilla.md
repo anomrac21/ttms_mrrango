@@ -6,7 +6,7 @@ prices:
     price: 90
   - variable1: "-"
     variable2: Shrimp
-    price: 105
+    price: 115
   - variable1: "-"
     variable2: Lamb
     price: 95

@@ -3,13 +3,13 @@ title: Traditional Chicken
 prices:
   - variable1: "-"
     variable2: Hard (corn)
-    price: 58
+    price: 56
   - variable1: "-"
     variable2: Soft (flour)
-    price: 58
+    price: 56
   - variable1: "-"
     variable2: Mixed
-    price: 58
+    price: 56
 side_categories:
   - category_name: "premium_toppings"
     display_name: "Premium Toppings"

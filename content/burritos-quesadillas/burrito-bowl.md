@@ -9,10 +9,10 @@ prices:
     price: 80
   - variable1: Mexican rice
     variable2: Veggie
-    price: 80
+    price: 90
   - variable1: Jasmine rice
     variable2: Veggie
-    price: 80
+    price: 90
   - variable1: Mexican rice
     variable2: Beef
     price: 80

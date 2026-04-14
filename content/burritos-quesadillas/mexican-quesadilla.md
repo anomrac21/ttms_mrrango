@@ -6,7 +6,7 @@ prices:
     price: 85
   - variable1: "-"
     variable2: Lamb
-    price: 130
+    price: 110
   - variable1: "-"
     variable2: Chicken
     price: 100

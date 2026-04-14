@@ -2,7 +2,7 @@
 title: Mac and Fries
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Regular"
     price: 65
   - variable1: "-"
     variable2: Chicken

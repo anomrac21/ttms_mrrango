@@ -2,14 +2,14 @@
 title: Kids Pasta
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Regular"
     price: 65
   - variable1: "-"
     variable2: "Grilled Chicken"
-    price: 94
+    price: 93
   - variable1: "-"
     variable2: "Fried Chicken"
-    price: 94
+    price: 93
   - variable1: "-"
     variable2: Steak
     price: 110

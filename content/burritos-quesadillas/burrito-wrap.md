@@ -3,7 +3,7 @@ title: Burrito Wrap
 prices:
   - variable1: "-"
     variable2: Veggie
-    price: 80
+    price: 90
   - variable1: "-"
     variable2: Chicken
     price: 95

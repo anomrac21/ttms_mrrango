@@ -13,13 +13,19 @@ prices:
     price: 100
   - variable1: "-"
     variable2: Chicken
-    price: 85
+    price: 115
   - variable1: "-"
     variable2: Beef
-    price: 85
+    price: 115
   - variable1: "-"
     variable2: "Roasted Pork"
     price: 115
+side_categories:
+  - category_name: "add_ons"
+    display_name: "Add-ons"
+    items:
+      - name: "Bacon"
+        price: 20
 tags: ["Appetizer"]
 ingredients: ["Tortilla chips", "Melted cheese", "Diced tomatoes", "Red onions", "Jalapeños", "Sour cream"]
 cookingmethods: []
@@ -28,4 +34,4 @@ events: []
 weight: 2
 ---
 
-A combination of tortilla chips and melted cheese topped with diced tomatoes, red onions, jalapeños and sour cream. Add-on: Bacon $80.
+A combination of tortilla chips and melted cheese topped with diced tomatoes, red onions, jalapeños and sour cream.

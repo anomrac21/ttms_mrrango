@@ -2,7 +2,7 @@
 title: Cheese Quesadilla
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Cheese"
     price: 65
   - variable1: "-"
     variable2: Chicken

@@ -1,6 +1,6 @@
 ---
 title: Entrées
-weight: 8
+weight: 14
 icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 ---
 

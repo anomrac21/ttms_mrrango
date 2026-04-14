@@ -1,6 +1,6 @@
 ---
 title: Vegetarian
-weight: 13
+weight: 10
 icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
 ---
 

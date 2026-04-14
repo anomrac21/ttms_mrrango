@@ -1,6 +1,6 @@
 ---
 title: Specialty
-weight: 9
+weight: 15
 icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 ---
 

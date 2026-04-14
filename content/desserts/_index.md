@@ -1,6 +1,6 @@
 ---
 title: Desserts
-weight: 9
+weight: 16
 icon: https://ct.ttmenus.com/icons/white/icon-dessert.webp
 ---
 

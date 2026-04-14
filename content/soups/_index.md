@@ -1,6 +1,6 @@
 ---
 title: Soups
-weight: 6
+weight: 5
 icon: https://ct.ttmenus.com/icons/food/icon-soup.webp
 ---
 

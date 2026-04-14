@@ -1,6 +1,6 @@
 ---
 title: Beer and Non-Alcoholic
-weight: 16
+weight: 19
 icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Shots
-weight: 15
+weight: 20
 icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
 ---
 

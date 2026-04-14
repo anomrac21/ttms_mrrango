@@ -1,6 +1,6 @@
 ---
 title: Burritos & Quesadillas
-weight: 6
+weight: 7
 icon: https://ct.ttmenus.com/icons/food/icon-wrap.webp
 ---
 

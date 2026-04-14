@@ -1,6 +1,6 @@
 ---
 title: Sides
-weight: 3
+weight: 8
 icon: https://ct.ttmenus.com/icons/food/icon-sides.webp
 ---
 

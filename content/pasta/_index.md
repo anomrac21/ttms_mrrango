@@ -1,6 +1,6 @@
 ---
 title: Pastas
-weight: 10
+weight: 13
 icon: https://ct.ttmenus.com/icons/food/icon-pasta.webp
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Caldora White
+title: Caldora White Pinot Grigio
 prices:
   - variable1: "Glass"
     variable2: "-"

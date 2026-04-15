@@ -1,5 +1,5 @@
 ---
-title: Moët Imperial Rosé
+title: Moët Imperial Rosé Champagne
 prices:
   - variable1: "Bottle"
     variable2: "-"

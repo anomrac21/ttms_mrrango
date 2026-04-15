@@ -1,5 +1,5 @@
 ---
-title: Caldora Red
+title: Caldora Red Malbec
 prices:
   - variable1: "Glass"
     variable2: "-"

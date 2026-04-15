@@ -1,5 +1,5 @@
 ---
-title: Châteauneuf-du-Pape
+title: Châteauneuf-du-Pape Cabernet Sauvignon
 prices:
   - variable1: "Glass"
     variable2: "-"

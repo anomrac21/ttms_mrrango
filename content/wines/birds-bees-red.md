@@ -1,5 +1,5 @@
 ---
-title: Birds & Bees
+title: Birds & Bees Malbec
 prices:
   - variable1: "Glass"
     variable2: "-"

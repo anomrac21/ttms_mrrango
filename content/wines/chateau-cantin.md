@@ -1,5 +1,5 @@
 ---
-title: Chateau Cantin
+title: Chateau Cantin Cabernet Sauvignon
 prices:
   - variable1: "Glass"
     variable2: "-"

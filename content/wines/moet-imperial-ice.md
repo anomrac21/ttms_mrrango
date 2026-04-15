@@ -1,5 +1,5 @@
 ---
-title: Moët Imperial Ice
+title: Moët Imperial Ice Champagne
 prices:
   - variable1: "Bottle"
     variable2: "-"

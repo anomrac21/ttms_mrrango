@@ -1,5 +1,5 @@
 ---
-title: Fuzion Sweet White
+title: Fuzion Sweet White Moscato
 prices:
   - variable1: "Glass"
     variable2: "-"

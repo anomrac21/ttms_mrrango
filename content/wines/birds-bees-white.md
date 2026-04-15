@@ -1,5 +1,5 @@
 ---
-title: Birds & Bees White
+title: Birds & Bees White Moscato
 prices:
   - variable1: "Glass"
     variable2: "-"

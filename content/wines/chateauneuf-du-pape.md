@@ -6,11 +6,11 @@ prices:
     price: 105
   - variable1: "Bottle"
     variable2: "-"
-    price: 500
+    price: 600
 tags: ["Wine", "Cabernet Sauvignon", "Red", "Alcoholic"]
 ingredients: []
 cookingmethods: []
 types: ["Beverage"]
 events: []
-weight: 4
+weight: 2
 ---

@@ -6,11 +6,11 @@ prices:
     price: 90
   - variable1: "Bottle"
     variable2: "-"
-    price: 380
+    price: 510
 tags: ["Wine", "Prosecco", "Alcoholic"]
 ingredients: []
 cookingmethods: []
 types: ["Beverage"]
 events: []
-weight: 2
+weight: 21
 ---

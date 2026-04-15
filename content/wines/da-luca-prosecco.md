@@ -12,5 +12,5 @@ ingredients: []
 cookingmethods: []
 types: ["Beverage"]
 events: []
-weight: 23
+weight: 22
 ---

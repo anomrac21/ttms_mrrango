@@ -6,11 +6,11 @@ prices:
     price: 90
   - variable1: "Bottle"
     variable2: "-"
-    price: 310
+    price: 510
 tags: ["Wine", "Pinot Grigio", "White", "Alcoholic"]
 ingredients: []
 cookingmethods: []
 types: ["Beverage"]
 events: []
-weight: 11
+weight: 9
 ---

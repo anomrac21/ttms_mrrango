@@ -6,11 +6,11 @@ prices:
     price: 65
   - variable1: "Bottle"
     variable2: "-"
-    price: 280
+    price: 260
 tags: ["Wine", "Moscato", "White", "Alcoholic"]
 ingredients: []
 cookingmethods: []
 types: ["Beverage"]
 events: []
-weight: 16
+weight: 14
 ---

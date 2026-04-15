@@ -1,9 +1,6 @@
 ---
 title: Moët Imperial Rosé
 prices:
-  - variable1: "Glass"
-    variable2: "-"
-    price: 80
   - variable1: "Bottle"
     variable2: "-"
     price: 1495

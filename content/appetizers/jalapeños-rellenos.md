@@ -8,7 +8,7 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 80
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Cheddar cheese", "Jalapeño", "BBQ sauce"]
 cookingmethods: []
 types: []

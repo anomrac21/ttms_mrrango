@@ -3,7 +3,7 @@ title: Monkey Shoulder
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 110
+    price: 80
   - variable1: Bottle
     variable2: "-"
     price: 650

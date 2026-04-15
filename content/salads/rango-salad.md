@@ -19,7 +19,7 @@ prices:
   - variable1: "-"
     variable2: Salmon
     price: 140
-tags: ["Salads"]
+tags: ["Salads", "Vegetarian"]
 ingredients: ["Lettuce", "Parmesan cheese", "Diced tomatoes", "Red onion", "Crumbled bacon", "Tortilla chips", "Blue cheese", "Cyclone sauce"]
 cookingmethods: []
 types: []

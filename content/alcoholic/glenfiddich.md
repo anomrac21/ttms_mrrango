@@ -3,7 +3,7 @@ title: Glenfiddich
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 60
+    price: 70
   - variable1: Bottle
     variable2: "-"
     price: 780

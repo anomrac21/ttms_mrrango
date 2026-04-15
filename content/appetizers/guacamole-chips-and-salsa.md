@@ -4,7 +4,7 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 105
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Tortilla chips", "Guacamole", "Salsa"]
 cookingmethods: []
 types: []

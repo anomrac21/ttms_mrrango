@@ -3,7 +3,7 @@ title: Macallan Estate
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 95
+    price: 310
   - variable1: Bottle
     variable2: "-"
     price: 3600

@@ -7,8 +7,12 @@ promotions:
     label: "10% OFF"
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Blackened Salmon"
     price: 220
+  - variable1: "-"
+    variable2: "Grilled Salmon"
+    price: 220
+  
 side_categories:
   - category_name: "upsize_options"
     display_name: "Upsize options"
@@ -32,4 +36,4 @@ events: []
 weight: 10
 ---
 
-Pink salmon seasoned with our Cajun rub and topped with a mushroom sauce, served on mashed potatoes and broccoli. Substitution: Grilled Salmon.
+Pink salmon seasoned with our Cajun rub and topped with a mushroom sauce, served on mashed potatoes and broccoli.

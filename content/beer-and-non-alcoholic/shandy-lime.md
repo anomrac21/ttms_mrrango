@@ -3,7 +3,7 @@ title: Shandy Lime
 prices:
   - variable1: "-"
     variable2: "-"
-    price: 18
+    price: 16
 tags: ["Non-Alcoholic"]
 ingredients: []
 cookingmethods: []

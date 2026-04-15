@@ -9,12 +9,12 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 195
-tags: ["Vegetarian"]
+tags: ["Specialty", "Vegetarian"]
 ingredients: ["Veggie shrimp", "Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]
 cookingmethods: ["Sautéed"]
 types: []
 events: []
-weight: 19
+weight: 12
 ---
 
 Veggie shrimp marinated and sautéed with garlic, julienned veggies, broccoli, and our spicy sauce, served on a skillet.

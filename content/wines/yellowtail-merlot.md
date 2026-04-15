@@ -6,7 +6,7 @@ prices:
     price: 70
   - variable1: "Bottle"
     variable2: "-"
-    price: 260
+    price: 300
 tags: ["Wine", "Merlot", "Red", "Alcoholic"]
 ingredients: []
 cookingmethods: []

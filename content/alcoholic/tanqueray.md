@@ -3,7 +3,7 @@ title: Tanqueray
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 58
+    price: 65
   - variable1: Bottle
     variable2: "-"
     price: 610

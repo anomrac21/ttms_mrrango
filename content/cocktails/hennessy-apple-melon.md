@@ -2,7 +2,10 @@
 title: Hennessy Apple/Melon
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: Apple
+    price: 85
+  - variable1: "-"
+    variable2: Melon
     price: 85
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Hennessy", "Apple or melon liqueur", "Grand Marnier", "Coconut water"]

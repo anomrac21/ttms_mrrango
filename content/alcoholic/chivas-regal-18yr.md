@@ -3,7 +3,7 @@ title: Chivas Regal 18 YR
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 95
+    price: 110
   - variable1: Bottle
     variable2: "-"
     price: 1100

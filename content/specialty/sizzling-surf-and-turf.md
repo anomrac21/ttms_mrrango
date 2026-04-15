@@ -1,5 +1,5 @@
 ---
-title: Sizzling
+title: Sizzling Surf and Turf (Beef and Shrimp)
 promotions:
   - days: [Sunday]
     type: percent_off
@@ -7,29 +7,23 @@ promotions:
     label: "10% OFF"
 prices:
   - variable1: "-"
-    variable2: Chicken
-    price: 135
+    variable2: Blue
+    price: 235
   - variable1: "-"
-    variable2: Steak
-    price: 150
+    variable2: Rare
+    price: 235
   - variable1: "-"
-    variable2: Fish
-    price: 150
+    variable2: Medium-Rare
+    price: 235
   - variable1: "-"
-    variable2: Shrimp
-    price: 170
+    variable2: Medium
+    price: 235
   - variable1: "-"
-    variable2: Tofu
-    price: 170
+    variable2: Medium-Well
+    price: 235
   - variable1: "-"
-    variable2: "Veggie Shrimp"
-    price: 195
-  - variable1: "-"
-    variable2: "Chicken and Shrimp"
-    price: 205
-  - variable1: "-"
-    variable2: Lobster
-    price: 225
+    variable2: Well-Done
+    price: 235
 side_categories:
   - category_name: "side"
     display_name: "Side"
@@ -54,11 +48,11 @@ side_categories:
       - name: "Pico de Gallo"
         price: 20
 tags: ["Specialty"]
-ingredients: ["Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]
+ingredients: ["Beef", "Shrimp", "Garlic", "Julienned veggies", "Broccoli", "Spicy sauce"]
 cookingmethods: ["Sautéed"]
 types: []
 events: []
 weight: 10
 ---
 
-Your choice of meat, marinated and sautéed with garlic, julienned veggies, broccoli and our spicy sauce, served on a skillet.
+Beef and shrimp surf and turf, marinated and sautéed with garlic, julienned veggies, broccoli and our spicy sauce, served on a skillet. Steak cooked to your desired temperature.

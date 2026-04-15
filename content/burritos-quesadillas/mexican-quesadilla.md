@@ -40,7 +40,7 @@ side_categories:
         price: 20
       - name: "Pico De Gallo"
         price: 20
-tags: ["Quesadillas"]
+tags: ["Quesadillas", "Vegetarian"]
 ingredients: ["Flour tortilla", "Diced tomatoes", "Onion", "Sweet peppers", "Mushrooms", "Carrots", "Jalapeños", "Swiss cheese"]
 cookingmethods: ["Grilled"]
 types: []

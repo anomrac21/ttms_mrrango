@@ -8,7 +8,7 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 65
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Mozzarella", "Honey mustard sauce"]
 cookingmethods: ["Fried"]
 types: []

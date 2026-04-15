@@ -7,7 +7,10 @@ promotions:
     label: "10% OFF"
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Grilled"
+    price: 175
+  - variable1: "-"
+    variable2: "Batter-Fried"
     price: 175
 side_categories:
   - category_name: "upsize_options"

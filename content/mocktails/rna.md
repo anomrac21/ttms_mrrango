@@ -2,6 +2,9 @@
 title: RNA
 prices:
   - variable1: "-"
+    variable2: Lime
+    price: 58
+  - variable1: "-"
     variable2: Strawberry
     price: 58
   - variable1: "-"

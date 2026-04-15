@@ -24,7 +24,7 @@ side_categories:
         price: 0
       - name: "Cyclone"
         price: 0
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: []
 cookingmethods: []
 types: []

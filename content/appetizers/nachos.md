@@ -26,7 +26,7 @@ side_categories:
     items:
       - name: "Bacon"
         price: 20
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Tortilla chips", "Melted cheese", "Diced tomatoes", "Red onions", "Jalapeños", "Sour cream"]
 cookingmethods: []
 types: []

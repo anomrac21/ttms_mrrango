@@ -3,7 +3,7 @@ title: Chivas Regal 15 YR
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 90
+    price: 95
   - variable1: Bottle
     variable2: "-"
     price: 950

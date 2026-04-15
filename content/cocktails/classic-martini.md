@@ -2,10 +2,13 @@
 title: Classic Martini
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: Vodka
+    price: 72
+  - variable1: "-"
+    variable2: Gin
     price: 72
 tags: ["Cocktail", "Alcoholic"]
-ingredients: ["Vodka or Gin", "Dry vermouth"]
+ingredients: ["Vodka", "Gin", "Dry vermouth"]
 cookingmethods: []
 types: ["Beverage"]
 events: []

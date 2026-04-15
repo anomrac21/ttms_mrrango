@@ -8,7 +8,7 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 70
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Corn on the cob", "Mama Julia sauce", "Cajun seasoned parmesan sauce"]
 cookingmethods: ["Fried"]
 types: []

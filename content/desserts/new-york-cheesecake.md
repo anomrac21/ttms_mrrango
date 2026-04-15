@@ -7,6 +7,9 @@ prices:
 side_categories:
   - category_name: "toppings"
     display_name: "Toppings"
+    config:
+      minimum: 0
+      maximum: 1
     items:
       - name: "Salted Caramel"
         price: 25

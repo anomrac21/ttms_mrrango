@@ -7,7 +7,10 @@ promotions:
     label: "10% OFF"
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: "Golden Snapper"
+    price: 200
+  - variable1: "-"
+    variable2: "Roasted Snapper"
     price: 200
 side_categories:
   - category_name: "upsize_options"
@@ -32,4 +35,4 @@ events: []
 weight: 12
 ---
 
-Fresh whole snapper seasoned with our local herbs and spices, breaded and fried to perfection. Served with Mexican rice, fried plantains, black beans and garlic butter sauce. Substitution: Roasted Snapper.
+Fresh whole snapper seasoned with our local herbs and spices, breaded and fried to perfection. Served with Mexican rice, fried plantains, black beans and garlic butter sauce. 

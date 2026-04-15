@@ -3,16 +3,16 @@ title: Rango Milkshake
 prices:
   - variable1: "-"
     variable2: Strawberry
-    price: 68
+    price: 58
   - variable1: "-"
     variable2: Vanilla
-    price: 68
+    price: 58
   - variable1: "-"
     variable2: Chocolate
-    price: 68
+    price: 58
   - variable1: "-"
     variable2: Caramel
-    price: 68
+    price: 58
 tags: ["Mocktail", "Non-Alcoholic"]
 ingredients: []
 cookingmethods: []

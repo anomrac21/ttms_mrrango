@@ -6,7 +6,10 @@ promotions:
     label: "2-for-1"
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: Red
+    price: 80
+  - variable1: "-"
+    variable2: White
     price: 80
 tags: ["Cocktail", "Alcoholic"]
 ingredients: ["Red or White wine", "Peach and mango purée", "White rum", "Peach and sour apple liqueur", "Fresh fruit"]

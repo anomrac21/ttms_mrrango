@@ -6,7 +6,7 @@ prices:
     price: 95
   - variable1: Bottle
     variable2: "-"
-    price: 1500
+    price: 1300
 tags: ["Cognac", "Alcoholic"]
 ingredients: []
 cookingmethods: []

@@ -7,7 +7,22 @@ promotions:
     label: "$20 OFF"
 prices:
   - variable1: "-"
-    variable2: "-"
+    variable2: Blue
+    price: 125
+  - variable1: "-"
+    variable2: Rare
+    price: 125
+  - variable1: "-"
+    variable2: Medium-Rare
+    price: 125
+  - variable1: "-"
+    variable2: Medium
+    price: 125
+  - variable1: "-"
+    variable2: Medium-Well
+    price: 125
+  - variable1: "-"
+    variable2: Well-Done
     price: 125
 side_categories:
   - category_name: "premium_toppings"

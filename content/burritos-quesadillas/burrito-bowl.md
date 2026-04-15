@@ -61,7 +61,7 @@ side_categories:
         price: 20
       - name: "Pico De Gallo"
         price: 20
-tags: ["Burritos"]
+tags: ["Burritos", "Vegetarian"]
 ingredients: ["Mexican rice or Jasmine rice", "Black beans", "Sour cream", "Pico de gallo"]
 cookingmethods: []
 types: []

@@ -3,7 +3,7 @@ title: Macallan Rare Cask
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 310
+    price: 330
   - variable1: Bottle
     variable2: "-"
     price: 4400

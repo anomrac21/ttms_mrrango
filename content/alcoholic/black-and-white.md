@@ -3,7 +3,7 @@ title: Black & White
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 58
+    price: 50
   - variable1: Bottle
     variable2: "-"
     price: 495

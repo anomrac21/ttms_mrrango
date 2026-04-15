@@ -8,7 +8,7 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 85
-tags: ["Appetizer"]
+tags: ["Appetizer", "Vegetarian"]
 ingredients: ["Corn ribs", "Cajun buffalo sauce", "Golden Glazed sauce", "Parmesan cheese", "Parsley"]
 cookingmethods: ["Fried"]
 types: []

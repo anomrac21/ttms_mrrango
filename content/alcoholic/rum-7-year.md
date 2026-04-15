@@ -3,7 +3,7 @@ title: 7 Year
 prices:
   - variable1: Shot
     variable2: "-"
-    price: 50
+    price: 58
   - variable1: Bottle
     variable2: "-"
     price: 450

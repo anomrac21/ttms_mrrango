@@ -6,12 +6,42 @@ promotions:
     value: 16
     label: "$20 OFF"
 prices:
-  - variable1: "-"
-    variable2: Beef
+  - variable1: Beef
+    variable2: Blue
     price: 165
-  - variable1: "-"
-    variable2: "Double Stacked Lamb"
-    price: 195
+  - variable1: Beef
+    variable2: Rare
+    price: 165
+  - variable1: Beef
+    variable2: Medium-Rare
+    price: 165
+  - variable1: Beef
+    variable2: Medium
+    price: 165
+  - variable1: Beef
+    variable2: Medium-Well
+    price: 165
+  - variable1: Beef
+    variable2: Well-Done
+    price: 165
+  - variable1: "Double Stacked Lamb"
+    variable2: Blue
+    price: 175
+  - variable1: "Double Stacked Lamb"
+    variable2: Rare
+    price: 175
+  - variable1: "Double Stacked Lamb"
+    variable2: Medium-Rare
+    price: 175
+  - variable1: "Double Stacked Lamb"
+    variable2: Medium
+    price: 175
+  - variable1: "Double Stacked Lamb"
+    variable2: Medium-Well
+    price: 175
+  - variable1: "Double Stacked Lamb"
+    variable2: Well-Done
+    price: 175
 side_categories:
   - category_name: "premium_toppings"
     display_name: "Premium Toppings"

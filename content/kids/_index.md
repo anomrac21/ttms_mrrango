@@ -1,7 +1,7 @@
 ---
 title: Kids
 weight: 9
-icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
+icon: images/kids.webp
+images:
+    primary: images/kids.webp
 ---
-
-

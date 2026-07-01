@@ -1,8 +1,9 @@
 ---
 title: Wines
 weight: 22
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
-
+icon: images/wines.webp
+images:
+    primary: images/wines.webp
 ---
 
-Wines by the glass and bottle. 
+Wines by the glass and bottle.

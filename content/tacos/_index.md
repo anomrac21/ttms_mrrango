@@ -1,13 +1,12 @@
 ---
 title: Tacos
 weight: 6
-icon: https://ct.ttmenus.com/icons/food/icon-taco.webp
+icon: images/tacos.webp
+images:
+    primary: images/tacos.webp
 ---
 
 Any **taco** comes with your choice of **corn (hard)**, **flour (soft)** tortillas or **mixed**. 
 
 
-Premium toppings available as additions for $20. 
-
-
-
+Premium toppings available as additions for $20.

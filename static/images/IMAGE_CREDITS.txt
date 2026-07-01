@@ -1,0 +1,25 @@
+Section photos:
+- hero.webp — Mr Rango (client promo, from promos/fiesta-fridays.jpg)
+- promotions.webp — Mr Rango (client promo, from promos/happy-hour.jpg)
+- appetizers.webp — Pexels #2087742
+- salads.webp — Pexels #1279330
+- dips.webp — Pexels #1639557
+- soups.webp — Pexels #539451
+- tacos.webp — Pexels #2092500
+- burritos-quesadillas.webp — Pexels #209406
+- sides.webp — Pexels #410648
+- kids.webp — Pexels #699953
+- burgers.webp — Pexels #769289
+- sandwiches.webp — Pexels #1630757
+- pasta.webp — Pexels #2097090
+- entrees.webp — Pexels #691114
+- specialty.webp — Pexels #958545
+- desserts.webp — Pexels #2089718
+- cocktails.webp — Pexels #274192
+- mocktails.webp — Pexels #1267325
+- beer-and-non-alcoholic.webp — Pexels #1304540
+- shots.webp — Pexels #1126728
+- wines.webp — Pexels #1283219
+- alcoholic.webp — Pexels #696218
+- slideshow-tacos.webp — Pexels #2087742
+- slideshow-cocktails.webp — Pexels #274192

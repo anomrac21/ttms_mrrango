@@ -1,7 +1,9 @@
 ---
 title: Mocktails
 weight: 18
-icon: https://ct.ttmenus.com/icons/food/icon-icedtea.webp
+icon: images/mocktails.webp
+images:
+    primary: images/mocktails.webp
 ---
 
-Virgin drinks and more. 
+Virgin drinks and more.

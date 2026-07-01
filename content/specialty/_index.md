@@ -1,9 +1,7 @@
 ---
 title: Specialty
 weight: 15
-icon: https://ct.ttmenus.com/icons/food/icon-platter.webp
+icon: images/specialty.webp
+images:
+    primary: images/specialty.webp
 ---
-
-
-
-

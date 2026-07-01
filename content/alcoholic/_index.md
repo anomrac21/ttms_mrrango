@@ -1,7 +1,9 @@
 ---
 title: Alcohols
 weight: 21
-icon: https://ct.ttmenus.com/icons/food/icon-rum.webp
+icon: images/alcoholic.webp
+images:
+    primary: images/alcoholic.webp
 ---
 
-Spirits, cognac, tequila and liqueurs. 
+Spirits, cognac, tequila and liqueurs.

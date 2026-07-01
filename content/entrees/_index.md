@@ -1,5 +1,7 @@
 ---
 title: Entrées
 weight: 14
-icon: https://ct.ttmenus.com/icons/food/icon-trailblazers.webp
+icon: images/entrees.webp
+images:
+    primary: images/entrees.webp
 ---

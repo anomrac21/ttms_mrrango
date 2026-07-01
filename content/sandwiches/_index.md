@@ -1,7 +1,7 @@
 ---
 title: Sandwiches
 weight: 12
-icon: https://ct.ttmenus.com/icons/food/icon-bread.webp
+icon: images/sandwiches.webp
+images:
+    primary: images/sandwiches.webp
 ---
-
-

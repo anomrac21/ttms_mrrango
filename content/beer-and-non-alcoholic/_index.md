@@ -1,7 +1,9 @@
 ---
 title: Beer and Non-Alcoholic
 weight: 19
-icon: https://ct.ttmenus.com/icons/food/icon-beer.webp
+icon: images/beer-and-non-alcoholic.webp
+images:
+    primary: images/beer-and-non-alcoholic.webp
 ---
 
-Beers, soft drinks, juices and more. 
+Beers, soft drinks, juices and more.

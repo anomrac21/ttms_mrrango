@@ -1,40 +1,48 @@
 :root {
+    /* Mr Rango Cookhouse: teal header, cream body, red accents */
+
     /* Header */
     --header-color: #004d65ed;
-    --header-bg-color: #ffffff00;
+    --header-bg-color: #004d65ed;
     --header-icon-color: #fefefe;
     --header-text-color: #fefefe;
-    --header-text-shadow-color:#00000080;
-    --header-bordercolor-1: #dfeed4ff;
-    --header-bordercolor-2: #dfeed4ff;
+    --header-text-shadow-color: #00000080;
+    --header-bordercolor-1: #dfeed4;
+    --header-bordercolor-2: #dfeed4;
     --header-bg-image: none;
-  
-  /* Hero */
-    --hero-bg-image-fg-color: #f4dec3;
-    --hero-bg-color: #ffffff00;
-    --hero-text-color: #000000;
 
-  /* Main */
-    --main-bg: #ffffff;
+    /* Hero */
+    --hero-bg-image-fg-color: #f4dec3;
+    --hero-bg-color: #f4dec3;
+    --hero-text-color: #000000;
+    --contact-info-bg: #004d65;
+
+    /* Main */
+    --main-bg: #f4dec3;
     --main-bg-color: #f4dec3;
     --main-text-color: #000000;
 
-  /* Menu */
-    --menu-bg-color-1: #c61c0300;
-    --menu-bg-color-2: #85060600;
+    /* Menu */
+    --menu-bg-color-1: #ffffff88;
+    --menu-bg-color-2: #ffffff44;
     --menu-text-color: #000000;
 
-
-  /* Buttons */
+    /* Buttons */
     --button-color1: #c61c03;
-    --button-color2: #200;
+    --button-color2: #850606;
     --button-text-color1: #fefefe;
+    --button-text-color2: #ffffff;
+    --button-text-color3: #ffffff;
     --selected-button-color1: #c61c03;
-    --selected-button-color2: #c61c03;
-    --selected-button-color3: #ffffffa6;
-    --selected-text-color1: #000000;
-    
-    
+    --selected-button-color2: #850606;
+    --selected-button-color3: #ffffff;
+    --selected-button-color4: #004d65ee;
+    --selected-text-color1: #ffffff;
+    --selected-text-color2: #ffffff;
+    --selected-text-color3: #c61c03;
 
-
+    /* Footer & modals */
+    --footer-bg-color: #004d65;
+    --footer-text-color: #fefefe;
+    --modal-bg-container-color: #00000055;
 }

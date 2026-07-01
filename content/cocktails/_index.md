@@ -1,7 +1,9 @@
 ---
 title: Cocktails
 weight: 17
-icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
+icon: images/cocktails.webp
+images:
+    primary: images/cocktails.webp
 ---
 
 Sip on anything your heart desires.

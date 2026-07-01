@@ -1,7 +1,7 @@
 ---
 title: Burgers
 weight: 11
-icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
+icon: images/burgers.webp
+images:
+    primary: images/burgers.webp
 ---
-
-

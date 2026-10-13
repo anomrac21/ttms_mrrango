@@ -1,48 +1,58 @@
+/**
+ * Cream page with black type failed on the red dish sheet.
+ * The sheet stays red with white ink. The page background is the teal brand.
+ * Cream remains only as the glow.
+ */
 :root {
-    /* Mr Rango Cookhouse: teal header, cream body, red accents */
+  --header-bg-color: #004d65ed;
+  --header-text-color: #fefefe;
+  --header-icon-color: #fefefe;
+  --header-border-color: #dfeed4;
 
-    /* Header */
-    --header-color: #004d65ed;
-    --header-bg-color: #004d65ed;
-    --header-icon-color: #fefefe;
-    --header-text-color: #fefefe;
-    --header-text-shadow-color: #00000080;
-    --header-bordercolor-1: #dfeed4;
-    --header-bordercolor-2: #dfeed4;
-    --header-bg-image: none;
+  --hero-bg-color-1: #004d65;
+  --hero-bg-color-2: #004d65;
+  --hero-text-color: #fefefe;
+  --hero-features-icon-color: #fefefe;
+  --hero-features-icon-bg-color: #004d65ed;
+  --hero-border-color: #dfeed4;
 
-    /* Hero */
-    --hero-bg-image-fg-color: #f4dec3;
-    --hero-bg-color: #f4dec3;
-    --hero-text-color: #000000;
-    --contact-info-bg: #004d65;
+  --main-bg: #004d65;
+  --main-text-color: #fefefe;
 
-    /* Main */
-    --main-bg: #f4dec3;
-    --main-bg-color: #f4dec3;
-    --main-text-color: #000000;
+  --menu-bg-color-1: #c61c03;
+  --menu-bg-color-2: #850606;
+  --menu-text-color: #fefefe;
+  --favorite-color: #c61c03;
 
-    /* Menu */
-    --menu-bg-color-1: #ffffff88;
-    --menu-bg-color-2: #ffffff44;
-    --menu-text-color: #000000;
+  --button-color1: #c61c03;
+  --button-color2: #850606;
+  --button-text-color1: #fefefe;
+  --button-text-color2: #ffffff;
+  --selected-button-color1: #c61c03;
+  --selected-button-color2: #850606;
+  --selected-button-color3: #dfeed4;
+  --selected-text-color1: #ffffff;
+  --selected-text-color3: #fefefe;
+  --select-color: #dfeed4;
+  --accent-color: #c61c03;
+  --accent-text-color: #ffffff;
+  --accent-glow-color: #f4dec3;
 
-    /* Buttons */
-    --button-color1: #c61c03;
-    --button-color2: #850606;
-    --button-text-color1: #fefefe;
-    --button-text-color2: #ffffff;
-    --button-text-color3: #ffffff;
-    --selected-button-color1: #c61c03;
-    --selected-button-color2: #850606;
-    --selected-button-color3: #ffffff;
-    --selected-button-color4: #004d65ee;
-    --selected-text-color1: #ffffff;
-    --selected-text-color2: #ffffff;
-    --selected-text-color3: #c61c03;
+  --footer-bg-color: #004d65;
+  --footer-text-color: #fefefe;
+  --footer-icon-color: #fefefe;
+  --modal-bg-container-color: #00000055;
 
-    /* Footer & modals */
-    --footer-bg-color: #004d65;
-    --footer-text-color: #fefefe;
-    --modal-bg-container-color: #00000055;
+  --header-color: #004d65ed;
+  --header-text-shadow-color: #00000080;
+  --header-bordercolor-1: #dfeed4;
+  --header-bordercolor-2: #dfeed4;
+  --header-bg-image: none;
+  --hero-bg-color: #004d65;
+  --hero-bg-image-fg-color: #f4dec3;
+  --contact-info-bg: #004d65;
+  --main-bg-color: #004d65;
+  --button-text-color3: #ffffff;
+  --selected-button-color4: #004d65ee;
+  --selected-text-color2: #ffffff;
 }

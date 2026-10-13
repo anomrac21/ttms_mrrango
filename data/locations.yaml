@@ -1,8 +1,9 @@
 locations:
-  - address: "PricePlaza"
+  - slug: chaguanas
+    address: "PricePlaza"
     city: "Chaguanas"
     island: "Trinidad"
-    latlon: [10.526217,-6140788623295676.000000]
+    latlon: [10.526217,-61.40788623295676]
     phone: "18686107600"
     whatsapp: "18687122202"
     subcategories: []
@@ -46,10 +47,11 @@ locations:
         - type: "Close"
           time: "22:00"
 
-  - address: "C3 Centre Courtyard"
+  - slug: san-fernando
+    address: "C3 Centre Courtyard"
     city: "San Fernando"
     island: "Trinidad"
-    latlon: [10.275609,-6143763456465923.000000]
+    latlon: [10.275609,-61.43763456465923]
     phone: "18686107601"
     whatsapp: "18687459190"
     subcategories: []

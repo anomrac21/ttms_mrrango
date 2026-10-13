@@ -13,14 +13,14 @@
             "src": "branding/favicon.ico",
             "type": "image/ico",
             "sizes": "196x196",
-            "purpose": "any" 
+            "purpose": "any"
         },
         {
             "src": "branding/favicon.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
-        }, 
+        },
         {
             "src": "branding/favicon16.webp",
             "type": "image/webp",

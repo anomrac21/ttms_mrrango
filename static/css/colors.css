@@ -1,58 +1,58 @@
 /**
- * Cream page with black type failed on the red dish sheet.
- * The sheet stays red with white ink. The page background is the teal brand.
- * Cream remains only as the glow.
+ * From the 2-for-1 poster: warm black field, orange-gold mark, white type.
+ * The dish sheet uses the same orange, deepened so the white ink stays readable.
+ * The poster gold stays on borders, the favorite, and the glow.
  */
 :root {
-  --header-bg-color: #004d65ed;
+  --header-bg-color: #110c0aed;
   --header-text-color: #fefefe;
   --header-icon-color: #fefefe;
-  --header-border-color: #dfeed4;
+  --header-border-color: #d38937;
 
-  --hero-bg-color-1: #004d65;
-  --hero-bg-color-2: #004d65;
+  --hero-bg-color-1: #110c0a;
+  --hero-bg-color-2: #110c0a;
   --hero-text-color: #fefefe;
   --hero-features-icon-color: #fefefe;
-  --hero-features-icon-bg-color: #004d65ed;
-  --hero-border-color: #dfeed4;
+  --hero-features-icon-bg-color: #110c0aed;
+  --hero-border-color: #d38937;
 
-  --main-bg: #004d65;
+  --main-bg: #110c0a;
   --main-text-color: #fefefe;
 
-  --menu-bg-color-1: #c61c03;
-  --menu-bg-color-2: #850606;
+  --menu-bg-color-1: #a06829;
+  --menu-bg-color-2: #1c120c;
   --menu-text-color: #fefefe;
-  --favorite-color: #c61c03;
+  --favorite-color: #d38937;
 
-  --button-color1: #c61c03;
-  --button-color2: #850606;
+  --button-color1: #a06829;
+  --button-color2: #1c120c;
   --button-text-color1: #fefefe;
   --button-text-color2: #ffffff;
-  --selected-button-color1: #c61c03;
-  --selected-button-color2: #850606;
-  --selected-button-color3: #dfeed4;
+  --selected-button-color1: #a06829;
+  --selected-button-color2: #1c120c;
+  --selected-button-color3: #d38937;
   --selected-text-color1: #ffffff;
   --selected-text-color3: #fefefe;
-  --select-color: #dfeed4;
-  --accent-color: #c61c03;
+  --select-color: #d38937;
+  --accent-color: #a06829;
   --accent-text-color: #ffffff;
-  --accent-glow-color: #f4dec3;
+  --accent-glow-color: #d38937;
 
-  --footer-bg-color: #004d65;
+  --footer-bg-color: #110c0a;
   --footer-text-color: #fefefe;
   --footer-icon-color: #fefefe;
   --modal-bg-container-color: #00000055;
 
-  --header-color: #004d65ed;
+  --header-color: #110c0aed;
   --header-text-shadow-color: #00000080;
-  --header-bordercolor-1: #dfeed4;
-  --header-bordercolor-2: #dfeed4;
+  --header-bordercolor-1: #d38937;
+  --header-bordercolor-2: #d38937;
   --header-bg-image: none;
-  --hero-bg-color: #004d65;
-  --hero-bg-image-fg-color: #f4dec3;
-  --contact-info-bg: #004d65;
-  --main-bg-color: #004d65;
+  --hero-bg-color: #110c0a;
+  --hero-bg-image-fg-color: #d38937;
+  --contact-info-bg: #110c0a;
+  --main-bg-color: #110c0a;
   --button-text-color3: #ffffff;
-  --selected-button-color4: #004d65ee;
+  --selected-button-color4: #110c0aee;
   --selected-text-color2: #ffffff;
 }

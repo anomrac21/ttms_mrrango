@@ -1,5 +1,6 @@
 locations:
-  - address: PricePlaza
+  - slug: chaguanas
+    address: PricePlaza
     city: Chaguanas
     delivery: {}
     island: Trinidad
@@ -47,7 +48,8 @@ locations:
     phone: "18686107600"
     subcategories: []
     whatsapp: "18687122202"
-  - address: C3 Centre Courtyard
+  - slug: san-fernando
+    address: C3 Centre Courtyard
     city: San Fernando
     delivery: {}
     island: Trinidad

@@ -1,97 +1,145 @@
 locations:
-  - slug: chaguanas
-    address: "PricePlaza"
-    city: "Chaguanas"
-    island: "Trinidad"
-    latlon: [10.526217,-61.40788623295676]
+  - address: PricePlaza
+    city: Chaguanas
+    delivery: {}
+    island: Trinidad
+    latlon:
+      - 10.526217
+      - -61.40788623295676
+    opening_hours:
+      fri:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      mode: Auto
+      mon:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      sat:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      sun:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      thu:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      tue:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      wed:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+    orderingtables: []
     phone: "18686107600"
+    subcategories: []
     whatsapp: "18687122202"
-    subcategories: []
-    orderingtables: []
-    delivery:
+  - address: C3 Centre Courtyard
+    city: San Fernando
+    delivery: {}
+    island: Trinidad
+    latlon:
+      - 10.275609
+      - -61.43763456465923
     opening_hours:
-      mode: "Auto"
-      sun:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      mon:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      tue:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      wed:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      thu:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
       fri:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      mode: Auto
+      mon:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
       sat:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-
-  - slug: san-fernando
-    address: "C3 Centre Courtyard"
-    city: "San Fernando"
-    island: "Trinidad"
-    latlon: [10.275609,-61.43763456465923]
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      sun:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      thu:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      tue:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      wed:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+    orderingtables: []
     phone: "18686107601"
-    whatsapp: "18687459190"
     subcategories: []
-    orderingtables: []
-    delivery:
+    whatsapp: "18687459190"
+  - address: East Gate Mall
+    city: Trincity
+    delivery: {}
+    island: Trinidad
+    latlon:
+      - 10.633419556028851
+      - -6.134696693135051e+15
     opening_hours:
-      mode: "Auto"
-      sun:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      mon:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      tue:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      wed:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-      thu:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
       fri:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      mode: Auto
+      mon:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
       sat:
-        - type: "Open"
-          time: "11:00"
-        - type: "Close"
-          time: "22:00"
-
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      sun:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      thu:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      tue:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+      wed:
+        - time: "11:00"
+          type: Open
+        - time: "22:00"
+          type: Close
+    orderingtables: []
+    phone: ""
+    subcategories: []
+    whatsapp: ""
